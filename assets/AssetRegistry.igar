@@ -1,0 +1,4775 @@
+{
+    "Assets": [
+        {
+            "Handle": "00905ae9-faae-4699-b3f3-efca7cd35cdb",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/ConnectionTrack/MI_Ground6_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "00d44ef9-4841-4aef-8762-02ccb6a084e4",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCarShell1_DoorsL/MI_SuperCarrShell1_SM_SuperCarShell1_DoorsL_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "01a51e78-1281-4adb-936c-5c223b4003e4",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_D4_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "01c00a13-9afa-4048-a058-3780821f4ffc",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_C4_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "01dabc18-14a6-4e18-9d4d-13fc09bdbd81",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointConstructions_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "01ea191c-e2dd-4122-b778-3408fa0fe8d8",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointTire_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "02b02006-8ba0-42fe-90ad-722a33193549",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/Checkpoints.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "03da54a8-f760-4140-94fd-2ade968d7fdb",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_FL/MI_blackSG_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "04023935-ae84-4deb-8b5c-c81a6bd2d348",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Fences/MI_SoundWallsConstruction_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "054cda2c-abcb-4051-8c6e-e9c177d80a56",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "059ff0df-cbd0-4378-9728-8d12f21a4f59",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_FrontMask/MI_SuperCarrShell2_SM_SuperCarShell1_FrontMask_ClearCoatNormal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "05d535ee-5aa5-454e-a95d-5ef70dd26dff",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCar1_Taillight/MI_Lamps_White_SM_SuperCar1_MainGlass_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "0694822b-ba2d-461b-a574-47af95188ec0",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagHandler_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "06db6839-57c7-4a3a-9eda-358e6c645f45",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_BR/MI_blackSG_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "06e0f3ed-0433-47de-b9af-3624669b1f99",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Fences_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "07f801cf-7dea-45f1-80a9-f5c12c0f7a76",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Poster5_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "08ab777f-9510-4080-8d25-b05fabe6bb6b",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_DoorsL/MI_SuperCarrShell1_SM_SuperCarShell1_DoorsL_ClearCoatNormal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "08df3fbf-6fdd-428d-8574-2f6a1221285e",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_Others/SM_SuperCar1_Headlight/../../SM_SuperCarGlass/SM_SuperCar1_MainGlass/MI_Lamps_White_SM_SuperCar1_MainGlass_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "09660ba8-cac2-473a-858d-989929f2d563",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Metal_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "0a3bcb95-2a79-4886-bd11-bb753fc7a4ae",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Landscape/RacingTrack.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "0aa16e7b-2a3a-4ae2-8925-e8d0c5a9092a",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagHandler_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "0c9c6a0a-cfc6-4f75-a0ec-aa52c53f81b4",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Poster4_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "0cc3a1df-053f-409b-9374-9c838129a8e7",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_MetalStripesRedWhite_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "0d822cbd-9936-4115-af04-54775f75ff4f",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_B_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "0ef5ef5e-5ce0-4b3d-85ae-ee637e41b1b1",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Commercials/MI_GroundCommercials_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "0f33f2e9-b915-4722-a89f-6d75cf268330",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboars3_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "0f390123-897a-4d5a-ba18-186d7a641975",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_AutomaticCarWashConstrtution_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "110bfe76-0ff3-4a8b-8538-98500e00af3a",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCar1_Headlight/MI_Lamps_White_SM_SuperCar1_MainGlass_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "1212dc8a-d00f-4813-a6c5-706b97677712",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_D5_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "12860dc4-0ec0-46f2-bd70-6f7f10478ce2",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A12_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "13bd6112-ff2a-4904-99f2-16bbd7b0beee",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_DoorsL/SM_SuperCarShell1_DoorsL.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "14dea24b-afa1-466e-8870-80de9c43adc6",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_Main/MI_SuperCarrShell1_SM_SuperCarShell1_Main_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "1504601f-30c7-4da0-977d-02def3a181a2",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarSpoilers/SM_SuperCarSpoilersP_A/SM_SuperCarSpoilersP_A.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "159dddac-e2fd-4fe8-a988-8e09ca4cd14c",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Counters/MI_CounterConcrete_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "15bd3ee6-de91-4ac0-b165-1a07ff262537",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointFlags_SM_Checkpoints_StandingFlag3_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "15cdcd2a-071c-481f-a9aa-cf23f9739c3e",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Fences/MI_RaceFenceConst_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "17bef8f3-7da8-448d-b078-4900bb70fc28",
+            "Type": 1,
+            "FilePath": "assets://textures/Poliigon_GrassPatchyGround_4585/4K/Poliigon_GrassPatchyGround_4585_AmbientOcclusion.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "19863bcd-b772-4a53-9a76-0a5835bacd52",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCarSideGlassL/MI_SuperCarInterior1_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "1b12029d-506e-43a3-bc9e-42d44d6665e7",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_B3_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "1b968f2c-6fa7-4baf-916c-29eb38973b1c",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_StartPropsGreenLight_Emissive.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "1c0a7176-5bb4-45ca-b5aa-39c9437d64e4",
+            "Type": 3,
+            "FilePath": "assets://models/Racecar/SM_Racecar.glb",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "1c701b4d-c718-4368-9955-802cffcb20f5",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointFlags_SM_Checkpoints_StandingFlag_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "1d035950-7396-4e34-a938-169d775567d8",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_FL/SM_SuperCarTires_FL.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "1dbc1227-ea01-4e13-a3bc-45df863d463b",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Landscape/Landscape.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "2081f057-f709-4bee-9123-ff10c559b1b2",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_RadioTower_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "208dc64f-5de4-46fe-8e0c-1b8fad4c6073",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointFlags_SM_Checkpoints_StandingFlag2_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "21278ffd-9f9d-4852-89e9-ce53479271cd",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Fences/MI_RaceFenceConst_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "21454221-8a99-4545-975c-bb503ed71290",
+            "Type": 1,
+            "FilePath": "resources://images/White.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "219f7dce-549d-40b1-82f8-97b14ed8162b",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_Others/SM_SuperCar1_Headlight/../../SM_SuperCarGlass/SM_SuperCar1_MainGlass/MI_Lamps_Red_SM_SuperCar1_MainGlass_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "225b2d72-b6f6-439a-bcc4-dca84e055102",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCarShell1_DoorsR/SM_SuperCarShell1_DoorsR.glb",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "22c23745-d659-4bd4-886d-4afd9ccf9cc0",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Bridges/MI_Stairs_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "256a1322-da55-40f0-9135-1fcbf4f089c5",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCar1_WindshieldB/SM_SuperCar1_WindshieldB.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "26b76577-ad71-4f2f-9b28-3fe327cc760b",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/RoadSigns/RoadSigns.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "27afccd0-a98a-4bd7-9800-0fef7158b2fb",
+            "Type": 1,
+            "FilePath": "resources://images/Black.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "285b621d-f22f-4b47-b518-1b9710e1cbfb",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_AutomaticCarWashBrushes_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "28ffed8e-0892-4402-ad07-d08e46fa1c13",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_RadioTower2_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "29cf388c-a275-4e48-b9ea-8a87c0c8766c",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/MainTrack/MainTrack.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "2a028b71-1d60-46ff-bbbe-20933a195efa",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_StartPropsGreenLight_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "2a5826b6-7391-40bc-88ec-3627a98f569b",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/ConnectionTrack/ConnectionTrack.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "2a9b412c-d673-4745-b21a-e97b6d81b593",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_C4_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "2c9f333a-4651-4064-92f1-dea80b836289",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/SlowDownTrack/MI_SlowDownTrack_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "2dcf9eed-a1d0-4d3a-a320-32555191e5e5",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_FL/MI_blackSG_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "2f39b706-4af7-4e5e-b634-5f39048d4fd5",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointFlags_SM_Checkpoints_StandingFlag_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "2f70c0e6-43a3-46d6-8a7d-e71c22503b42",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_D2_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "307622c6-3a92-450e-8730-8592ed992860",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_DoorsL/MI_SuperCarrShell1_SM_SuperCarShell1_DoorsL_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "32bc5f69-025d-4b8b-b895-d4bf602baeab",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Bridges/MI_Construction_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "333f21d1-26af-4c84-8345-fe80e2a43363",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Landscape/MI_ForrestLandscapeMaster_Occlusion.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "33559501-a747-499d-abe2-80d0c685cb0d",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_AutomaticCarWashBrushes_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "3391f8c1-1a2b-4dd6-bda0-60592198926d",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Bridges/MI_Bridge1_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "34378d8e-e970-4014-98b2-40114b8e337e",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_B_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "34a18c45-fdf6-4f68-a161-2af27b131145",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCarSideGlassL/MI_SuperCarInterior1_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "363072c6-a83a-4128-9f30-0ba7d36a60ea",
+            "Type": 3,
+            "FilePath": "assets://models/sphere.fbx",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "3730faad-9ecf-4f04-9d7c-e1065569aaf5",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_DoorsR/SM_SuperCarShell1_DoorsR.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "3799971e-7c9a-4371-a545-a63dbf95ccaf",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_PitStop_UP_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "37bb8004-c2f2-40c5-bff6-77375c1f3e7a",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_ConcreteWithDirt_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "3842835d-537f-415c-9db9-b6db77a512b1",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_C3_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "39aba685-de20-41ac-b1ae-2329c4012c7a",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_D_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "3d27ec64-a16f-4c4b-8697-15e86cd757c6",
+            "Type": 1,
+            "FilePath": "resources://images/ibl_brdf_lut.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "3d589446-5a87-45d6-988b-77a609ab9b00",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCar1_Taillight/MI_Lamps_Red_SM_SuperCar1_MainGlass_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "3d8965e0-1ee9-4eed-9e99-479231e52563",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A12_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "3ded8779-bd4a-4fe0-9eaf-3290088d03fe",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Fences/MI_Fences_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "3e28aafc-9788-493d-8c40-88161a43d076",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/ConnectionTrack/MI_TrackEdge_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "3f47d97a-5500-4154-b8cd-6f260476f8e4",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A12_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "3fbcc8ba-217f-4333-9505-a8fd46338563",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboars4_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "40358da5-84c2-4a91-8253-b3df726f9bc7",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_B3_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "411af4c2-4a4b-43bf-8961-5b7d2e79b4e2",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/MainTrack/MI_Ground6_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "419ba152-ea77-46b6-9891-0a28ca20a6d7",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCarShell1_DoorsR/SM_SuperCarShell1_DoorsR.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "426f39cc-3ea4-4de1-b982-d5a8e4d30621",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Counters/MI_CounterNumbers_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "4349122c-dae3-4261-b4fc-29ec65cf081d",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_DoorsR/MI_SuperCarrShell1_SM_SuperCarShell1_DoorsR_ClearCoatNormal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "43b53399-9fd1-493e-9dd4-c8a5cda83464",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_C3_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "45fb3faa-e27d-4070-83b0-38cc967554b0",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A2_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "46b3410b-991c-4955-9d6d-6915910d5a48",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_FR/MI_blackSG_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "472cd9c7-7098-40c5-8e2c-9963cbf20b13",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Bridges/MI_Stairs_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "4964f5cd-2bd2-41e4-ab32-be8c7591ad9b",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/ArrowSigns/MI_ArrowSigns_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "4b2ddf3e-7dc9-4ece-a4a9-004793a276df",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/RoadDamages/MI_RoadDamage_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "4bb1e520-f615-4810-a0f6-29063d88ffa1",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointTire_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "4e1ca115-6d0e-4795-8ebf-2598fe58738c",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_D4_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "4ec8c8a6-9a73-4a25-8db7-9432e3bf119e",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_B4_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "4f246605-cd45-4ce4-b113-75f0b679b81c",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_FrontMask/MI_SuperCarrShell2_SM_SuperCarShell1_FrontMask_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "4fd43e85-1953-4c1e-9035-6feab749e729",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_MetalDiamondPlates_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "4fd66c77-d850-424c-ae48-e8b600d884ef",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_DoorsL/MI_SuperCarrShell1_SM_SuperCarShell1_DoorsL_ClearCoatRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "50a0685e-8c53-4a33-b6c1-be4ae61d4d76",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_D_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "50d03921-ddd6-4bc2-9af2-0b0012351212",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Tower1_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "52c38db7-d3f9-4f2a-bc14-2f2848e584cc",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_StartConstruction_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "562e0a32-2de2-4174-b087-80f79689437d",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Landscape/RacingTrack.fbx",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "566ec99d-5245-4485-9dc3-62f4a860f9cd",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_BL/MI_blackSG_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "5775f0c7-b314-4c39-936a-d6c0145a02c2",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_D2_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "57d68901-dde8-4e8f-992c-71e20dc67fe8",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboars3_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "57f102ef-ba16-42f7-a41f-a4a3ddaf80c4",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Poster_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "58f288df-1c61-4388-81bf-7d4981528022",
+            "Type": 1,
+            "FilePath": "assets://textures/Poliigon_GrassPatchyGround_4585/4K/Poliigon_GrassPatchyGround_4585_Metallic.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "5914d7f1-2bb1-4b4f-a61d-60d8dc9aeddb",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Landscape/Landscape.fbx",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "5936f99e-8bef-452a-955e-8ab4f8f12a4d",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_B3_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "5a2e5744-89ba-4f13-9326-a0e79687c2d2",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/BillBoards/BillBoards.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "5bf68217-608f-4701-b4b6-b39283c0dc89",
+            "Type": 1,
+            "FilePath": "assets://textures/Poliigon_GrassPatchyGround_4585/4K/Poliigon_GrassPatchyGround_4585_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "5cd5c555-701c-4384-a1eb-b58326922b5a",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Counters/MI_CounterNumbers_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "5eb43bdb-e67a-4cb4-85dd-d7bf8f6e685b",
+            "Type": 1,
+            "FilePath": "assets://textures/Poliigon_GrassPatchyGround_4585/4K/Poliigon_GrassPatchyGround_4585_Roughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "5ef3479b-3183-47b7-98ef-6cf8aab1e5e8",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Fences_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "5fb380ef-22c3-4a47-8760-29e373f07732",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_PitStop_Down_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "602b0b37-c2ca-479f-83d9-efae4b25aa27",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A2_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "636845d5-9463-43f6-a073-093875169e63",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_B4_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "666b0d48-8eb7-4ceb-9554-8093094d4751",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/RoadSigns/MI_RoadSigns3_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "66a0a834-0122-4895-a82c-8524e056b43c",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/RoadDamages/MI_RoadDamage_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "6922a4f2-3a9d-4d3c-8df6-85e8f6aa49aa",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_PitStop_UP_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "6ac0946b-c979-44ca-99f8-a50c2e8702f5",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_FR/MI_blackSG_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "6c641289-99f3-4168-9c70-91965c5b2a0a",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A10_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "6d8e15b9-f93a-4c6e-a7b9-c950cdfb0b6c",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_StartPropsGreenLight_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "6d8fe65c-6d31-44c6-b708-cd822baebf84",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Fences/Fences.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "6f12629c-840f-4f84-b7e0-ffd6b2a764c1",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/MainTrack/MI_Ground6_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "7119d8a7-9120-4429-858b-fc4ecaacd76b",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A4_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "71d5725f-1a0c-4175-87a8-73a06b8931a1",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/ConnectionTrack/MI_TrackEdge_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "7334c33f-46fc-4903-9a42-ce95a6ba6e5a",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A11_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "759b9c2d-6969-475b-b1b6-4c0ff307130f",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_AutomaticCarWashWalls_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "764ad269-38e5-4fa9-bab1-ae5d014cf135",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Counters/MI_CounterConcrete_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "767a1f4b-a670-43fe-bbe6-701eb8c8ad8a",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Commercials/Commercials.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "777d9bc1-7438-48a1-a57c-7b05ee62075b",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCarSideGlassR/SM_SuperCarSideGlassR.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "7815967a-80a2-459b-9f2b-f131d391b529",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboars_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "78b71ae6-88c4-4721-bf3b-2a48e60a11a0",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Metal_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "795669e6-820d-42e9-bece-759888aea9d8",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCarDoorsGlass_B/SM_SuperCarDoorsGlass_B.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "79592471-398a-4fc4-bfc0-57e6e9620fa4",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_Main/MI_SuperCarrShell1_SM_SuperCarShell1_Main_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "79a51ca7-23d9-4114-a8dc-fe57967d54db",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_C3_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "79c0b338-f9bb-4f65-b7c4-232006ad48fa",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/ArrowSigns/MI_ArrowSigns_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "7a87e7be-660b-47ff-b7e6-86b365d57a9f",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboars2_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "7ab6f50d-159c-4b18-950b-7baafd782e1d",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Poster6_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "7c6dfb14-7f3a-457e-807b-95fa799fc486",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboarsConstruction_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "8059a70c-99a6-44a6-9858-c7e1fc6e775a",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_FR/MI_blackSG_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "8159bf29-4186-48cf-97ab-f2097849198b",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboars_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "81999942-6987-4dbc-b6bf-df725567f8b6",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_FL/MI_blackSG_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "82c7d206-6fa5-40de-be17-01f63e616ef2",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/ArrowSigns/ArrowSigns.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "82fa1aad-a7b8-4ac2-938a-c801caafff5f",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCar1_WindshieldF/SM_SuperCar1_WindshieldF.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "84bae1bf-e9ab-43b6-8425-6b73ab93567d",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_AutomaticCarWashConstrtution_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "88561ebb-efab-4005-b276-ff3c6bc61b87",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/RoadSigns/MI_RoadSigns3_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "8a9c4959-42ab-4a18-9453-159c9b82d80a",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/ArrowSigns/MI_ArrowSigns_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "8c3cc3f6-3cf6-4797-a5f7-773360e9c3f1",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_PitStop_UP_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "8cac7509-baff-409e-b7a9-c6cc8d8c4a94",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/MainTrack/MI_TrackEdge_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "8cae646d-8337-41e5-96cd-23ad632aa8ef",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Poster3_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "8cb87ce7-ba85-4bf3-ad06-52c786ddd356",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Fences/MI_Fences_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "8cde3f59-4602-4762-9e14-3ce6328cbff9",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Fences/MI_Fences_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "8d8a3d94-77c7-4aba-b826-508a36f7e9c2",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Counters/MI_CounterConcrete_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "8d9c00f5-885e-44ff-8a5f-4f047bffff20",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_PitStop_Down_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "9072feb0-4b55-4d58-97c4-4f98840849ab",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_AutomaticCarWashWalls_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "90773d38-9ca0-4fe3-a701-59eefd9a5487",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/PitStops/PitStops.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "9176b58f-1f4c-4989-9582-1fe397114a2b",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/RoadDamages/MI_RoadDamage_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "93e6067c-4229-45b7-b578-c7c6415cf679",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Landscape/Landscape.obj",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "945739fd-7081-4408-a4fc-54d052465d67",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A13_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "956b8511-c096-4368-b930-b55ec2f37375",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCarSideGlassL/SM_SuperCarSideGlassL.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "9578d748-e484-4e41-a97a-32d06ad95a61",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_DoorsL/MI_SuperCarrShell1_SM_SuperCarShell1_DoorsL_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "9585ceeb-6541-467a-9e0b-1dea3239cef0",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A2_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "96d396f6-4abf-4f79-bdef-acf570c52003",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCarDoorsGlass_L/SM_SuperCarDoorsGlass_L.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "97452299-99a8-4b93-82e6-00ffa5cea357",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Bridges/Bridges.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "97a0a2d0-5d2d-4346-bfef-e47567b0f7f4",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_BL/SM_SuperCarTires_BL.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "97bd0df7-369d-4374-b723-231a2d435d0f",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Fences/MI_SoundWallsConstruction_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "9861fdc6-ea18-405d-8de8-2c2c42e20eb3",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_FrontMask/SM_SuperCarShell1_FrontMask.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "986a5281-a94a-4cbf-866d-c1cc003764c7",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A10_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "9987abc6-e446-4ba9-bec1-678004604aa1",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCar1_Headlight/SM_SuperCar1_Headlight.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "9aae88c1-502c-4da8-8296-f4bad2554b93",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/SlowDownTrack/MI_SlowDownTrack_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "9b1b99b9-2f53-44be-a794-c6dd8c91763f",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_MetalStripesRedWhite_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "9fb9b5a6-b754-4951-b86a-7d43ef3dd598",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_roadNoLines_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "9ffae4ba-469c-46dd-b46f-11d0c75f08f4",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/RoadDamages/RoadDamages.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "a1bc182f-3813-48ac-a589-239eef0d61b4",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/RoadSigns/MI_RoadSigns3_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "a22c3d4e-c8ec-4f8a-b77c-3c906b02fd6b",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_RaceStairs1_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "a31ceff4-651c-4bd0-b118-bd8eb5cd4b22",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/TrackArrows/TrackArrows.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "a3df3f65-5c13-4f05-82af-a704ac28d9b6",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Tower1_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "a4a78176-64ec-45d6-9917-419524752f26",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Counters/MI_CounterNumbers_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "a54a14d6-4710-4cbb-96e7-674445e1ff21",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_ConcreteWithDirt_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "a6794f32-7a83-4266-909a-60ce48fed025",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Fences/MI_SoundWallsConstruction_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "a68b07b4-a44a-4c99-a3d5-74ff3a7a4b14",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Tower1_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "a6f17953-58be-46ea-8ba8-3546f54b1b60",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Poster2_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "a7236695-292c-4189-a816-9ddd256201c8",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_B4_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "a8224f52-fd99-4d37-b655-8694490e1d3a",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_FrontMask/MI_SuperCarrShell2_SM_SuperCarShell1_FrontMask_ClearCoatRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "a839991f-ca2b-43b8-a65c-87e4726adf15",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Metal_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "a875fe50-9cba-4fca-92ff-d73cd6b182bb",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_D5_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "a9693b7f-1e83-4797-b6ec-3ba4fd5bdcdd",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCarSideGlassR/MI_SuperCarInterior1_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "aa223bf2-0419-4142-8681-01385ca2b81a",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_MetalPlates_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "abd9778c-efac-4f78-bab1-c10ad2c72fae",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A4_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ac33a2ec-486f-4c4a-ab54-2e3e05047605",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarSpoilers/SM_SuperCarSpoilersP_A/MI_SuperCarSpoilersP_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "adb062e0-7cbf-4fc1-ae28-61cfd6643d71",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A3_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "add62aec-1dd8-4918-a806-8baf2779ec82",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboarsConstruction_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "adde6e64-9498-4657-8a06-35e3447109a0",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboars4_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ae210589-73d9-45d5-99a7-9baf563e29ba",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_DoorsR/MI_SuperCarrShell1_SM_SuperCarShell1_DoorsR_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ae3dfe45-5fe1-4473-ac90-c5cc8740545e",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCarShell1_DoorsL/MI_SuperCarrShell1_SM_SuperCarShell1_DoorsL_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ae8ed7c9-3434-4a44-9eab-0317cdc5d979",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_roadNoLines_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "af129713-5827-40ea-9dc9-f11229cde56b",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCarSideGlassR/MI_SuperCarInterior1_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "b0402590-27a0-4e79-a19b-6c4986d21f82",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "b1495a3d-a57b-4cd4-86c2-686260ed23f4",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_BR/MI_blackSG_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "b1eebf06-dd18-4189-bff5-981cabd1bb0b",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointConstructions_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "b2480362-8bd0-434c-9f48-bacbf91fc7d0",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_C_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "b403ab68-58c0-4656-9ef9-d9cb86265c5e",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/MainTrack/MI_TrackEdge_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "b456d13a-1aea-4ef9-b8fd-12c132219966",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_BL/MI_blackSG_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "b509f51e-06a1-4f46-a5d9-283dbb188f39",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Commercials/MI_GroundCommercials_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "b601e34d-55e7-4b5a-ac99-9bb925505c9e",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Bridges/MI_Bridge1_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "b9792a95-8d8b-4cba-b777-f6096a125978",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_FR/SM_SuperCarTires_FR.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "bb6734b9-9812-4835-b325-dabfcd9f7650",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_StartConstruction_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "bc019a9b-a7a2-4692-929a-4bd25b3a4883",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCarSideGlassL/MI_SuperCarInterior1_Emissive.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "bd0d6c72-3c27-4430-9d54-e18804c066fc",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A10_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "be3a087a-6b08-4abf-b898-6c3d2d5cec6a",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "beacde79-0445-44a5-abd1-2682bbea493a",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_DoorsR/MI_SuperCarrShell1_SM_SuperCarShell1_DoorsR_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "bec9411e-ef68-48c4-bbed-652432d170a0",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A13_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "bf3391ce-f082-4e7e-8754-2188610d37f1",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Fences/MI_RaceFenceW_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "bf78d1a0-edf2-4baa-b765-d98f0ece318d",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Bridges/MI_Construction_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c063c147-47e3-4740-8c24-9ba289209f8a",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_BR/MI_blackSG_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c0a5b7d2-d35a-4bd4-9a4b-812562ea1a2b",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_RadioTower2_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c10eb9fd-f889-432d-ab64-ff8beeba7b01",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointFlags_SM_Checkpoints_StandingFlag3_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c1379615-e644-4f38-8ccc-46e582ebf5a5",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_Others/SM_SuperCar1_Headlight/../../SM_SuperCarGlass/SM_SuperCar1_MainGlass/MI_Lamps_White_SM_SuperCar1_MainGlass_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c1544af3-f9ff-468e-8642-db5f49f5f125",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_MetalDiamondPlates_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c1997784-ab53-4095-aa80-88c2c075f8fa",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/TrackArrows/MI_ArrowRoad_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c19f71a6-9c87-4e15-9db7-5c8b42f438ab",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_roadNoLines_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c1cc0589-959a-46d6-8bd7-80b3e38a9e4a",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_Others/SM_SuperCar1_Headlight/../../SM_SuperCarGlass/SM_SuperCar1_MainGlass/MI_Lamps_Red_SM_SuperCar1_MainGlass_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c231923b-b563-46db-9360-d9609eab58d1",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Greens/Greens.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "c2a7b64a-b285-45ff-86f5-573f533f93e2",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_ConcreteWithDirt_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c337e5fb-5e39-407b-bc55-50fd55db072f",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCar1_Taillight/SM_SuperCar1_Taillight.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "c33a78c8-975f-4245-bd9b-66de3a2ad531",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/ConnectionTrack/MI_Ground6_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c744d60d-f901-48b5-b609-5e79b28039ba",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_RadioTower2_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c74bf981-bfc5-4660-9e0d-8a5a99fc1f83",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_StartConstruction_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c78836c7-430a-4710-ae41-08a26ceec146",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_DoorsR/MI_SuperCarrShell1_SM_SuperCarShell1_DoorsR_ClearCoatRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c9cb5a66-5dc1-42db-80cc-fd6a753c450d",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointFlags_SM_Checkpoints_StandingFlag3_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "c9faacea-33ec-44c6-adee-bc082c9a9bb1",
+            "Type": 4,
+            "FilePath": "assets://environments/kloofendal_48d_partly_cloudy_puresky_4k.hdr",
+            "ImportOptions": {
+                "OptionsType": "Equirect",
+                "Options": {
+                    "TexOptions": {
+                        "FlipVertical": false,
+                        "GenMipmaps": false,
+                        "InternalFormat": 2,
+                        "WrapS": 0,
+                        "WrapT": 0,
+                        "MinFilter": 5,
+                        "MagFilter": 1
+                    },
+                    "BakeSettings": {
+                        "EnvironmentResolution": 1024,
+                        "IrradianceResolution": 32,
+                        "PrefilterResolution": 256,
+                        "BrdfLUTResolution": 512
+                    }
+                }
+            }
+        },
+        {
+            "Handle": "cb69ff6e-ecf8-4000-8d9c-7a9265cc9791",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/TrackArrows/MI_ArrowRoad_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "cc287b84-30d2-4c94-bb78-000627e89743",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCar1_Taillight/MI_Lamps_Red_SM_SuperCar1_MainGlass_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "cc9affba-08f8-43a4-83c1-7dc30911d042",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboars2_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "cd33d640-8abf-4d38-991c-84bb99f4444c",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/MainTrack/MI_TrackEdge_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "cd882c1d-b4b5-4a6e-bafd-14aaf086913d",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_Main/MI_SuperCarrShell1_SM_SuperCarShell1_Main_ClearCoatNormal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "cdc988fa-3eb1-4381-9f7e-8698cacbecc5",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointConstructions_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "cfc5c61d-8064-4aa8-91c6-0f7481d671d8",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_C_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "cff7d547-4562-4345-81be-122cfdd44054",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_RadioTower_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "d136c8eb-38ff-4187-ad03-dd8c3702d59a",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/ConnectionTrack/MI_TrackEdge_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "d361c402-5e15-4233-aedf-d0a4769872eb",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/SlowDownTrack/SlowDownTrack.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "d4286011-4dee-46c0-a1e4-7f2b21575e2e",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarSpoilers/SM_SuperCarSpoilersP_A/MI_SuperCarSpoilersP_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "d57ba17d-7495-4312-b7f9-7034f1c82804",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointFlags_SM_Checkpoints_StandingFlag2_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "d59678a3-2101-4260-be81-c6fc9fa2e098",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Bridges/MI_Stairs_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "d81c8178-5716-4b85-9f66-9e98e84a0dcc",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_MetalPlates_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "da477bcc-b6ab-4c60-abd9-24f96a6097eb",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_D4_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "db8a5244-dc3c-466b-9db2-f09d13ed2155",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_D2_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "dba84c0d-a7f2-41a1-94fe-23fc992ac769",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_RadioTower_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "dba90cbd-a300-4d2e-9be4-c1c1b8a8005d",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboars4_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "dbcb4387-f36e-4428-9e0b-131812a87af9",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_Main/MI_SuperCarrShell1_SM_SuperCarShell1_Main_ClearCoatRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "dc2dfc70-fd48-4806-8406-76c1bc79568e",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagHandler_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "dc938896-c247-472c-a7a7-d6ac7d70ce2a",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointTire_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "dd296c8f-9240-4fef-996e-13c3d945cf9c",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Bridges/MI_Bridge1_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "de5bb4f4-aabc-4879-99fe-eb142ec92c22",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_Flag_SM_StartingConstruction_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "df39288f-9ade-42f8-9a46-41e70e2bcf8b",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_Main/SM_SuperCarShell1_Main.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "df4a922f-96c7-41c5-a299-1d06f337740a",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Fences/MI_RaceFenceConst_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "e31e683e-a717-4cbe-86e1-8accbf45e397",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_AutomaticCarWashConstrtution_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "e4e5418f-4a2f-47ea-8df0-35c06ec105e3",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_PitStop_Down_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "e66fb1cc-1aa6-4269-9226-5ce655f57389",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Banners/Banners.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "e67d5eea-bcd1-48db-9a35-1fe9d1c3eae5",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_RaceStairs1_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "e69fd30a-6764-47ad-b10e-aaae86817936",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Bridges/MI_Construction_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "e8870f0d-03df-409b-a844-23bdb29c5282",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Start/Start.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "e938f17d-2799-4e24-8cc3-69573e14c533",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarSpoilers/SM_SuperCarSpoilersP_A/MI_SuperCarSpoilersP_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ea428e00-7f72-45b8-b17f-fdf1359da8da",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_Flag_SM_StartingConstruction_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ea4afd06-531c-4d00-a3f5-9c6dbc6b5931",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCarShell1_DoorsL/SM_SuperCarShell1_DoorsL.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "ea53fad7-3895-46ea-b346-fdadd30a42b5",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A13_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ea8e3c9b-6373-4773-bee2-c5e2284ef45d",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCarSideGlassR/MI_SuperCarInterior1_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "eb7a2822-3ca6-4d50-8724-8270ca0d7215",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/TrackArrows/MI_ArrowRoad_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ed1c6f80-9e8e-45b8-8796-7340ce221c3e",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_BL/MI_blackSG_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ed8c3451-dfb2-46ca-8579-be1338946949",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/Counters/RacingTrack.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "eddf91d9-78aa-4515-a868-1dbbcfa764c5",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_MetalDiamondPlates_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ee648ba4-babd-47e4-a72f-eec5803adb75",
+            "Type": 1,
+            "FilePath": "assets://textures/Poliigon_GrassPatchyGround_4585/4K/Poliigon_GrassPatchyGround_4585_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "eed1abff-8cbc-4808-a7b0-de3e9de03765",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboars2_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ef0e9c80-69f2-4850-8854-6eb33ce743be",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_Fences_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "f0008bdc-e0bb-4f5b-95f4-3e1efcec910c",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_D_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "f036f7c3-a91f-4de7-8e63-b1923f1c9991",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A3_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "f1d18627-f01c-4994-8ead-2b34a50decdd",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboarsConstruction_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "f3e78011-516b-4f6d-823f-25b6fbc888e0",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_MetalPlates_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "f4ee5397-274b-47f8-9d3c-79b3394106b2",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Commercials/MI_GroundCommercials_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "f4f12ed2-7eb5-4b64-a286-70c57e678ab3",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_D5_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "f4f22112-2319-46f9-8e86-17599e3374cc",
+            "Type": 3,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarTires/SM_SuperCarTires_BR/SM_SuperCarTires_BR.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "f690a7f5-4c95-48b4-9767-a5b0d9a697fd",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCar1_Taillight/MI_Lamps_White_SM_SuperCar1_MainGlass_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "f6c75138-b5a3-4383-b12b-5f23072001f1",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_C_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "f8586e78-bca4-4d97-9e9b-e8099d18790e",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_Flag_SM_StartingConstruction_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "f8b137e8-79b7-4e7b-b0f6-dfb191a84436",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarShell1/SM_SuperCarShell1_FrontMask/MI_SuperCarrShell2_SM_SuperCarShell1_FrontMask_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "f8cf7e3a-a082-41e5-ada9-91681c49850c",
+            "Type": 3,
+            "FilePath": "assets://models/RacingTrack/RacingTrack.gltf",
+            "ImportOptions": {
+                "OptionsType": "None"
+            }
+        },
+        {
+            "Handle": "f9be74a3-b692-4b3f-b534-48623c55b72e",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_C4_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "faa9e683-1921-4e0a-be87-b1e3104ae1f7",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCarSideGlassR/MI_SuperCarInterior1_Emissive.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "fb1ea1bc-0a06-4cd7-9602-b980e4e44eb8",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_A3_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "fb93d9ad-82b8-4990-9d26-55a8b35e0bbb",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Start/MI_StartPropsGreenLight_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "fd2b8c16-3df0-4b04-b570-84cc47481973",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCarSideGlassL/MI_SuperCarInterior1_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "fd7eb20f-a63a-4ee0-86c5-2491adc55399",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboars_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "fe0aa267-2991-45c4-89fe-ca9238ec8c07",
+            "Type": 1,
+            "FilePath": "assets://models/SM_SuperCar/SM_SuperCarGlass/SM_SuperCar1_Headlight/MI_Lamps_White_SM_SuperCar1_MainGlass_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "fe6f2f44-1337-4d07-be57-b16e1b35c1b5",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/SlowDownTrack/MI_SlowDownTrack_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "fe807460-8ec2-4b7d-b2d7-e377529409aa",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_AutomaticCarWashWalls_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "fe90e707-730e-4b77-be63-6587005cceee",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointFlags_SM_Checkpoints_StandingFlag2_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "feff68a7-1d02-4c7e-a6d5-5392203b6f27",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointFlags_SM_Checkpoints_StandingFlag_MetallicRoughness.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ff371141-4acd-44d1-865b-41e7678714d2",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/PitStops/MI_RaceStairs1_BaseColor.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 3,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        },
+        {
+            "Handle": "ff9e65c8-cd9a-4e03-9f3d-9bcd7db78088",
+            "Type": 1,
+            "FilePath": "assets://models/RacingTrack/Banners/MI_FlagBanners_SM_Banners_B_Normal.png",
+            "ImportOptions": {
+                "OptionsType": "Texture",
+                "Options": {
+                    "FlipVertical": true,
+                    "GenMipmaps": true,
+                    "InternalFormat": 2,
+                    "WrapS": 0,
+                    "WrapT": 0,
+                    "MinFilter": 5,
+                    "MagFilter": 1
+                }
+            }
+        }
+    ]
+}

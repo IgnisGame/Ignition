@@ -26,3 +26,7 @@ logs/
 # Binaries
 bin/
 .DS_Store
+
+# Private Assets
+assets/models/RacingTrack
+assets/models/SM_SuperCar

@@ -1,0 +1,13 @@
+{
+    "ProjectName": "Ignition",
+    "AssetDirectory": "assets",
+    "AssetRegistry": "assets/AssetRegistry.igar",
+    "StartScene": "scenes/MainScene.igscene",
+    "ScriptModule": {
+        "Name": "Ignition",
+        "Directory": "bin/{Platform}/{Config}/",
+        "Windows": "{Name}.dll",
+        "Linux": "lib{Name}.so",
+        "macOS": "lib{Name}.dylib"
+    }
+}
