@@ -25764,10 +25764,10 @@
             "Relationship": {
                 "ParentID": "00000000-0000-0000-0000-000000000000",
                 "FirstChildID": "e26c50d1-88ab-464a-8cda-fd2188ba1fc8",
-                "LastChildID": "304e684b-6fae-4071-aa34-88de049432bd",
+                "LastChildID": "d9fd8fae-c6c3-4734-93e7-16b1b0b867ba",
                 "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
                 "NextSiblingID": "00000000-0000-0000-0000-000000000000",
-                "ChildrenCount": 15
+                "ChildrenCount": 16
             },
             "Transform": {
                 "Translation": [
@@ -26669,7 +26669,7 @@
                 "FirstChildID": "00000000-0000-0000-0000-000000000000",
                 "LastChildID": "00000000-0000-0000-0000-000000000000",
                 "PrevSiblingID": "51f3d9b4-91a5-4604-9f7e-8e7b29585038",
-                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "d9fd8fae-c6c3-4734-93e7-16b1b0b867ba",
                 "ChildrenCount": 0
             },
             "Transform": {
@@ -49697,6 +49697,47 @@
                         "DoubleSided": false
                     }
                 ]
+            }
+        },
+        {
+            "ID": "d9fd8fae-c6c3-4734-93e7-16b1b0b867ba",
+            "Tag": "Camera",
+            "Relationship": {
+                "ParentID": "1b830139-f4c4-43af-9e23-5f92d77e6faf",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "304e684b-6fae-4071-aa34-88de049432bd",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -8.0,
+                    2.299999952316284,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    -90.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Camera": {
+                "Primary": true,
+                "FixedAspectRatio": true,
+                "ProjectionType": 0,
+                "AspectRatio": 1.7777777910232544,
+                "PerspectiveFOV": 45.0,
+                "PerspectiveNear": 0.009999999776482582,
+                "PerspectiveFar": 1000.0,
+                "OrthographicSize": 10.0,
+                "OrthographicNear": -1.0,
+                "OrthographicFar": 1.0
             }
         },
         {
