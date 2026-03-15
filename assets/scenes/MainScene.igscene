@@ -25818,7 +25818,7 @@
         },
         {
             "ID": "1d3fb8b3-675f-4f0d-a0d2-96fcec419498",
-            "Tag": "Physics",
+            "Tag": "Ground",
             "Relationship": {
                 "ParentID": "09b116af-6aba-4b0a-a4d3-8ce379b43804",
                 "FirstChildID": "00000000-0000-0000-0000-000000000000",
@@ -25830,7 +25830,7 @@
             "Transform": {
                 "Translation": [
                     0.0,
-                    0.0,
+                    -0.8999999761581421,
                     0.0
                 ],
                 "Rotation": [
@@ -25844,15 +25844,29 @@
                     1.0
                 ]
             },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": true,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
             "BoxCollider": {
                 "HalfSize": [
                     1000.0,
-                    0.10000000149011612,
+                    0.5,
                     1000.0
                 ],
                 "Offset": [
                     0.0,
-                    -10.0,
+                    0.0,
                     0.0
                 ],
                 "Friction": 0.5,
