@@ -25788,9 +25788,9 @@
             },
             "RigidBody": {
                 "BodyType": 1,
-                "Mass": 1.0,
-                "LinearDrag": 0.0,
-                "AngularDrag": 0.05000000074505806,
+                "Mass": 1200.0,
+                "LinearDrag": 0.20000000298023224,
+                "AngularDrag": 3.0,
                 "UseGravity": true,
                 "IsKinematic": false,
                 "LockPositionX": false,
@@ -25811,8 +25811,8 @@
                     0.6000000238418579,
                     0.0
                 ],
-                "Friction": 0.5,
-                "Restitution": 0.30000001192092896,
+                "Friction": 0.699999988079071,
+                "Restitution": 0.10000000149011612,
                 "IsTrigger": false
             }
         },
@@ -25869,8 +25869,8 @@
                     0.0,
                     0.0
                 ],
-                "Friction": 0.5,
-                "Restitution": 0.30000001192092896,
+                "Friction": 0.699999988079071,
+                "Restitution": 0.05000000074505806,
                 "IsTrigger": false
             }
         },
