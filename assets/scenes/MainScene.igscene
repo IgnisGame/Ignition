@@ -25785,6 +25785,35 @@
                     2.0,
                     2.0
                 ]
+            },
+            "RigidBody": {
+                "BodyType": 1,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": true,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    2.5999999046325684,
+                    0.75,
+                    1.0
+                ],
+                "Offset": [
+                    0.0,
+                    0.6000000238418579,
+                    0.0
+                ],
+                "Friction": 0.5,
+                "Restitution": 0.30000001192092896,
+                "IsTrigger": false
             }
         },
         {
