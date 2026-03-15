@@ -25695,10 +25695,10 @@
             "Relationship": {
                 "ParentID": "00000000-0000-0000-0000-000000000000",
                 "FirstChildID": "8679d7a7-da8b-4fae-b29b-2774d8ecda5e",
-                "LastChildID": "93b5d0a2-5b3b-4396-b6c4-633808f4c5fa",
+                "LastChildID": "1d3fb8b3-675f-4f0d-a0d2-96fcec419498",
                 "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
                 "NextSiblingID": "00000000-0000-0000-0000-000000000000",
-                "ChildrenCount": 17
+                "ChildrenCount": 18
             },
             "Transform": {
                 "Translation": [
@@ -25809,6 +25809,50 @@
                 "Offset": [
                     0.0,
                     0.6000000238418579,
+                    0.0
+                ],
+                "Friction": 0.5,
+                "Restitution": 0.30000001192092896,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "1d3fb8b3-675f-4f0d-a0d2-96fcec419498",
+            "Tag": "Physics",
+            "Relationship": {
+                "ParentID": "09b116af-6aba-4b0a-a4d3-8ce379b43804",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "93b5d0a2-5b3b-4396-b6c4-633808f4c5fa",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    1000.0,
+                    0.10000000149011612,
+                    1000.0
+                ],
+                "Offset": [
+                    0.0,
+                    -10.0,
                     0.0
                 ],
                 "Friction": 0.5,
@@ -35574,7 +35618,7 @@
                 "FirstChildID": "00000000-0000-0000-0000-000000000000",
                 "LastChildID": "00000000-0000-0000-0000-000000000000",
                 "PrevSiblingID": "38d20508-4c61-4bbf-8355-e72fee026043",
-                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "1d3fb8b3-675f-4f0d-a0d2-96fcec419498",
                 "ChildrenCount": 0
             },
             "Transform": {
