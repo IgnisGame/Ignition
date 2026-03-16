@@ -25786,6 +25786,10 @@
                     2.0
                 ]
             },
+            "Script": {
+                "ClassName": "CarController",
+                "Enabled": true
+            },
             "RigidBody": {
                 "BodyType": 1,
                 "Mass": 1200.0,
