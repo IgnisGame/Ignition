@@ -18,6 +18,7 @@ Note: we have removed some model files in the assets folder as they are copyrigh
   - Windows: Visual Studio 2022 has Ninja by default, or install via Visual Studio Installer
   - macOS: `brew install ninja`
 - **Git** for version control
+- **Homebrew** for macOS only
 
 ### Building the Editor
 
