@@ -2,6 +2,64 @@
     "SceneName": "UntitledScene",
     "Entities": [
         {
+            "ID": "02b93383-e098-4f8a-b4fa-98a651389754",
+            "Tag": "ArmcoBarrier14",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "fe7ef40b-f1e3-49e4-9016-fd356fe74e56",
+                "NextSiblingID": "4f45c089-c5af-4fee-8bc8-5a5c9a70a17a",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    360.9691162109375,
+                    0.8999999761581421,
+                    -236.40126037597656
+                ],
+                "Rotation": [
+                    -1.162164330482483,
+                    -165.08599853515625,
+                    2.2512407302856445
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    8.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "0361fec3-4a4f-4cb8-afd3-f8068da03d90",
             "Tag": "Fences",
             "Relationship": {
@@ -25777,6 +25835,122 @@
             }
         },
         {
+            "ID": "0ea9f8ac-785f-4ab9-80c3-77fdc52b84c6",
+            "Tag": "ArmcoBarrier6",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "5dc64003-9393-470c-ae9b-d064f9cf8601",
+                "NextSiblingID": "16563b2c-02b3-4600-b1ab-2b3a6f8cd836",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    384.3957824707031,
+                    0.8999999761581421,
+                    -300.3310852050781
+                ],
+                "Rotation": [
+                    3.527643599454677e-08,
+                    -64.30000305175781,
+                    1.7447414180082887e-08
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "0f7c4754-2637-4808-9276-2fda5d99f5a7",
+            "Tag": "ArmcoBarrier55",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "8c023294-bc03-4316-850d-d369ebc1cbda",
+                "NextSiblingID": "991e432b-ee0b-48f0-8353-bc40e0fc8722",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -350.3912658691406,
+                    0.8999999761581421,
+                    -21.271995544433594
+                ],
+                "Rotation": [
+                    0.0,
+                    -93.5,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "10b01f10-a899-476a-adc1-ac10bc94f889",
             "Tag": "Sky",
             "Relationship": {
@@ -25814,6 +25988,64 @@
                     1.0
                 ],
                 "SkyboxLod": 0.0
+            }
+        },
+        {
+            "ID": "16563b2c-02b3-4600-b1ab-2b3a6f8cd836",
+            "Tag": "ArmcoBarrier7",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "0ea9f8ac-785f-4ab9-80c3-77fdc52b84c6",
+                "NextSiblingID": "de38d783-32e3-413c-8a49-d2817dc18b39",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    388.10052490234375,
+                    0.8999999761581421,
+                    -291.064453125
+                ],
+                "Rotation": [
+                    3.527643599454677e-08,
+                    -71.5,
+                    1.7447414180082887e-08
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
             }
         },
         {
@@ -25875,15 +26107,73 @@
             }
         },
         {
+            "ID": "188c61a3-eaf0-49b2-abd7-087fbd21a0d9",
+            "Tag": "ArmcoBarrier58",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "a549cfa2-df25-4ce7-b915-bf3d07bf03e0",
+                "NextSiblingID": "4a787ab6-9263-41ab-9ea7-133791c5ee18",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -336.69927978515625,
+                    0.8999999761581421,
+                    -77.43683624267578
+                ],
+                "Rotation": [
+                    0.0,
+                    -117.69999694824219,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "1955e136-eb59-44fd-89ce-730848dec20e",
             "Tag": "Colliders",
             "Relationship": {
                 "ParentID": "09b116af-6aba-4b0a-a4d3-8ce379b43804",
                 "FirstChildID": "1d3fb8b3-675f-4f0d-a0d2-96fcec419498",
-                "LastChildID": "98817a20-ed86-43dc-8be2-afb9eda3e176",
+                "LastChildID": "7f5a114a-7bf9-416b-8e8b-0e697f445ae0",
                 "PrevSiblingID": "b0d2e899-ab16-416c-9f4a-9f50d52ad8cf",
                 "NextSiblingID": "00000000-0000-0000-0000-000000000000",
-                "ChildrenCount": 22
+                "ChildrenCount": 83
             },
             "Transform": {
                 "Translation": [
@@ -26956,6 +27246,122 @@
             }
         },
         {
+            "ID": "2a38ccd7-3583-45b2-b8a1-361eb17fe62c",
+            "Tag": "ArmcoBarrier33",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "86c7d0b0-4048-4769-8815-f63c297f900e",
+                "NextSiblingID": "ad77ad9d-1be0-4408-bd74-3b47107e6dea",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    40.41278839111328,
+                    0.8999999761581421,
+                    240.17193603515625
+                ],
+                "Rotation": [
+                    0.0,
+                    46.20000076293945,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    20.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "2a5c68c8-126d-4fe0-a857-4912b6a5760d",
+            "Tag": "ArmcoBarrier52",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "d6f76aff-3273-42da-a4ba-5725fff47f1a",
+                "NextSiblingID": "bb8891ab-dd0c-4ad3-bd61-0d0dc7259ff8",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -341.25213623046875,
+                    0.8999999761581421,
+                    49.24295425415039
+                ],
+                "Rotation": [
+                    0.0,
+                    -71.5,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    8.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "2a6a1eaf-4fc9-4b10-aea2-e4b9d0653940",
             "Tag": "SoundWall8",
             "Relationship": {
@@ -27639,6 +28045,64 @@
                         "DoubleSided": false
                     }
                 ]
+            }
+        },
+        {
+            "ID": "326239ad-a9a5-4edd-ae55-0506b667d776",
+            "Tag": "ArmcoBarrier43",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "8f223ddb-cbc6-4bf8-8ba9-24e69fc48ebc",
+                "NextSiblingID": "4291fbc7-9fee-4520-ae28-dae8cc3f1521",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -144.8429718017578,
+                    0.8999999761581421,
+                    273.03857421875
+                ],
+                "Rotation": [
+                    0.0,
+                    -42.20000076293945,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    8.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
             }
         },
         {
@@ -28571,6 +29035,122 @@
                         "DoubleSided": false
                     }
                 ]
+            }
+        },
+        {
+            "ID": "3a191bdd-c4dc-45e2-a1c2-fb083c7d72a6",
+            "Tag": "ArmcoBarrier48",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "d789b7fe-62ae-4ce7-bbf0-b91c48cb7778",
+                "NextSiblingID": "c973c28d-7282-4b9b-abc5-1aca80fbfcaa",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -270.57208251953125,
+                    0.8999999761581421,
+                    134.857666015625
+                ],
+                "Rotation": [
+                    0.0,
+                    -39.20000076293945,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    20.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "3a75f9e0-a38c-4ccf-99b5-dd28b8d8c0f6",
+            "Tag": "ArmcoBarrier23",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "9568977a-12a7-4880-9e6d-a9644bb2020d",
+                "NextSiblingID": "974f1150-177c-426f-b02b-f20adac2bfb7",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    137.61529541015625,
+                    0.8999999761581421,
+                    -126.5784683227539
+                ],
+                "Rotation": [
+                    178.02699279785156,
+                    -151.20899963378906,
+                    -176.51023864746094
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
             }
         },
         {
@@ -32982,6 +33562,238 @@
             }
         },
         {
+            "ID": "4291fbc7-9fee-4520-ae28-dae8cc3f1521",
+            "Tag": "ArmcoBarrier44",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "326239ad-a9a5-4edd-ae55-0506b667d776",
+                "NextSiblingID": "65ede174-6ef7-4264-8494-538b76330de1",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -156.3779754638672,
+                    0.8999999761581421,
+                    260.2377624511719
+                ],
+                "Rotation": [
+                    0.0,
+                    -50.70000076293945,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "494c5a30-4a0c-416b-ae0d-6655008bde6d",
+            "Tag": "ArmcoBarrier2",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "8bd1e2a9-514c-4f0a-9be4-97a8b8545e68",
+                "NextSiblingID": "8fd3db30-a417-4d47-ad21-690e514dd67e",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    345.2664489746094,
+                    0.8999999761581421,
+                    -325.2556457519531
+                ],
+                "Rotation": [
+                    3.527643599454677e-08,
+                    -8.199999809265137,
+                    1.7447414180082887e-08
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "4a787ab6-9263-41ab-9ea7-133791c5ee18",
+            "Tag": "ArmcoBarrier59",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "188c61a3-eaf0-49b2-abd7-087fbd21a0d9",
+                "NextSiblingID": "f628485c-0e8f-4107-874d-98add8ac754f",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -325.3695983886719,
+                    0.8999999761581421,
+                    -92.19413757324219
+                ],
+                "Rotation": [
+                    0.0,
+                    -136.60000610351563,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "4bf41b8e-cbc3-4404-93c7-9e0d5437ac1f",
+            "Tag": "ArmcoBarrier4",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "8fd3db30-a417-4d47-ad21-690e514dd67e",
+                "NextSiblingID": "5dc64003-9393-470c-ae9b-d064f9cf8601",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    372.0572204589844,
+                    0.8999999761581421,
+                    -315.89630126953125
+                ],
+                "Rotation": [
+                    3.527643599454677e-08,
+                    -35.79999923706055,
+                    1.7447414180082887e-08
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "4c779173-a41d-42d1-8279-2f8b60ceeec5",
             "Tag": "DoorLGlass",
             "Relationship": {
@@ -33607,6 +34419,122 @@
                         "DoubleSided": false
                     }
                 ]
+            }
+        },
+        {
+            "ID": "4f45c089-c5af-4fee-8bc8-5a5c9a70a17a",
+            "Tag": "ArmcoBarrier15",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "02b93383-e098-4f8a-b4fa-98a651389754",
+                "NextSiblingID": "b862eba3-8afc-42d8-a6f5-c9393f752943",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    345.5907897949219,
+                    0.8999999761581421,
+                    -233.69212341308594
+                ],
+                "Rotation": [
+                    -1.162164330482483,
+                    -175.98599243164063,
+                    2.2512407302856445
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    8.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "4f81eff7-49d7-4bf4-b5d8-7765e7188eee",
+            "Tag": "ArmcoBarrier39",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "8ea6c96b-5a6b-44d8-8baf-166e5f927504",
+                "NextSiblingID": "d5808eba-9957-41c0-8df8-f7e03f82231b",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -76.36368560791016,
+                    0.8999999761581421,
+                    303.17620849609375
+                ],
+                "Rotation": [
+                    0.0,
+                    -2.0999999046325684,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
             }
         },
         {
@@ -34292,6 +35220,122 @@
                 ],
                 "Friction": 0.25,
                 "Restitution": 0.15000000596046448,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "5727582b-e7c8-4e49-95a0-18cc3998d94a",
+            "Tag": "ArmcoBarrier41",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "d5808eba-9957-41c0-8df8-f7e03f82231b",
+                "NextSiblingID": "8f223ddb-cbc6-4bf8-8ba9-24e69fc48ebc",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -114.21722412109375,
+                    0.8999999761581421,
+                    293.7951965332031
+                ],
+                "Rotation": [
+                    0.0,
+                    -26.5,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "5dc64003-9393-470c-ae9b-d064f9cf8601",
+            "Tag": "ArmcoBarrier5",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "4bf41b8e-cbc3-4404-93c7-9e0d5437ac1f",
+                "NextSiblingID": "0ea9f8ac-785f-4ab9-80c3-77fdc52b84c6",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    379.2218017578125,
+                    0.8999999761581421,
+                    -308.867431640625
+                ],
+                "Rotation": [
+                    3.527643599454677e-08,
+                    -54.79999923706055,
+                    1.7447414180082887e-08
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
                 "IsTrigger": false
             }
         },
@@ -35040,6 +36084,238 @@
             }
         },
         {
+            "ID": "65ede174-6ef7-4264-8494-538b76330de1",
+            "Tag": "ArmcoBarrier45",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "4291fbc7-9fee-4520-ae28-dae8cc3f1521",
+                "NextSiblingID": "babd3d70-f669-4e08-b991-d5bdae4a7335",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -177.5231170654297,
+                    0.8999999761581421,
+                    231.7627716064453
+                ],
+                "Rotation": [
+                    0.0,
+                    -54.5,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    27.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "68be868e-fbf3-4c1e-aea0-36c28f20c267",
+            "Tag": "ArmcoBarrier31",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "eb9c1d3d-0da5-4b33-ae78-388aaba41737",
+                "NextSiblingID": "86c7d0b0-4048-4769-8815-f63c297f900e",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    88.78734588623047,
+                    0.8999999761581421,
+                    204.7497100830078
+                ],
+                "Rotation": [
+                    0.0,
+                    20.399999618530273,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    15.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "6f7b06d9-8d9c-417d-80a5-692873346ae6",
+            "Tag": "ArmcoBarrier9",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "de38d783-32e3-413c-8a49-d2817dc18b39",
+                "NextSiblingID": "84ab4717-6cd0-40e4-8e10-a2a0a90d62ee",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    390.26068115234375,
+                    0.8999999761581421,
+                    -271.5531005859375
+                ],
+                "Rotation": [
+                    -1.162164330482483,
+                    -98.68599700927734,
+                    2.2512407302856445
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "7248b035-a7ef-4bf3-9458-bfff1d90f7ae",
+            "Tag": "ArmcoBarrier12",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "ac788490-5d84-4ff4-96a1-0af189331714",
+                "NextSiblingID": "fe7ef40b-f1e3-49e4-9016-fd356fe74e56",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    380.0804443359375,
+                    0.8999999761581421,
+                    -245.45462036132813
+                ],
+                "Rotation": [
+                    -1.162164330482483,
+                    -133.18600463867188,
+                    2.2512407302856445
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    4.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "783fdd9f-87cd-4cb2-934d-02205b548fde",
             "Tag": "Shell",
             "Relationship": {
@@ -35351,6 +36627,64 @@
                         "DoubleSided": false
                     }
                 ]
+            }
+        },
+        {
+            "ID": "7f5a114a-7bf9-416b-8e8b-0e697f445ae0",
+            "Tag": "ArmcoBarrier61",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "f628485c-0e8f-4107-874d-98add8ac754f",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -293.03204345703125,
+                    0.8999999761581421,
+                    -109.01476287841797
+                ],
+                "Rotation": [
+                    0.0,
+                    -167.6999969482422,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    7.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
             }
         },
         {
@@ -35723,6 +37057,64 @@
                         "DoubleSided": false
                     }
                 ]
+            }
+        },
+        {
+            "ID": "84ab4717-6cd0-40e4-8e10-a2a0a90d62ee",
+            "Tag": "ArmcoBarrier10",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "6f7b06d9-8d9c-417d-80a5-692873346ae6",
+                "NextSiblingID": "ac788490-5d84-4ff4-96a1-0af189331714",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    388.3005676269531,
+                    0.8999999761581421,
+                    -261.9344177246094
+                ],
+                "Rotation": [
+                    -1.162164330482483,
+                    -102.88600158691406,
+                    2.2512407302856445
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
             }
         },
         {
@@ -36180,6 +37572,412 @@
             }
         },
         {
+            "ID": "86c7d0b0-4048-4769-8815-f63c297f900e",
+            "Tag": "ArmcoBarrier32",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "68be868e-fbf3-4c1e-aea0-36c28f20c267",
+                "NextSiblingID": "2a38ccd7-3583-45b2-b8a1-361eb17fe62c",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    65.72673797607422,
+                    0.8999999761581421,
+                    217.68113708496094
+                ],
+                "Rotation": [
+                    0.0,
+                    35.099998474121094,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    15.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "8bd1e2a9-514c-4f0a-9be4-97a8b8545e68",
+            "Tag": "ArmcoBarrier1",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "98817a20-ed86-43dc-8be2-afb9eda3e176",
+                "NextSiblingID": "494c5a30-4a0c-416b-ae0d-6655008bde6d",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    199.9403839111328,
+                    0.8999999761581421,
+                    -326.3323059082031
+                ],
+                "Rotation": [
+                    3.527643599454677e-08,
+                    0.0,
+                    1.7447414180082887e-08
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    135.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "8c023294-bc03-4316-850d-d369ebc1cbda",
+            "Tag": "ArmcoBarrier54",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "bb8891ab-dd0c-4ad3-bd61-0d0dc7259ff8",
+                "NextSiblingID": "0f7c4754-2637-4808-9276-2fda5d99f5a7",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -349.26043701171875,
+                    0.8999999761581421,
+                    13.142340660095215
+                ],
+                "Rotation": [
+                    0.0,
+                    -83.80000305175781,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "8ea6c96b-5a6b-44d8-8baf-166e5f927504",
+            "Tag": "ArmcoBarrier38",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "d085f2e0-e368-4757-a13d-98bf2a44ade3",
+                "NextSiblingID": "4f81eff7-49d7-4bf4-b5d8-7765e7188eee",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -52.314483642578125,
+                    0.8999999761581421,
+                    302.16619873046875
+                ],
+                "Rotation": [
+                    0.0,
+                    5.5,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    15.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "8f223ddb-cbc6-4bf8-8ba9-24e69fc48ebc",
+            "Tag": "ArmcoBarrier42",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "5727582b-e7c8-4e49-95a0-18cc3998d94a",
+                "NextSiblingID": "326239ad-a9a5-4edd-ae55-0506b667d776",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -130.9641876220703,
+                    0.8999999761581421,
+                    283.67633056640625
+                ],
+                "Rotation": [
+                    0.0,
+                    -34.29999923706055,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "8fd3db30-a417-4d47-ad21-690e514dd67e",
+            "Tag": "ArmcoBarrier3",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "494c5a30-4a0c-416b-ae0d-6655008bde6d",
+                "NextSiblingID": "4bf41b8e-cbc3-4404-93c7-9e0d5437ac1f",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    361.4426574707031,
+                    0.8999999761581421,
+                    -321.23388671875
+                ],
+                "Rotation": [
+                    3.527643599454677e-08,
+                    -22.299999237060547,
+                    1.7447414180082887e-08
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    7.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "927971a1-492b-4859-aa3b-c023cbac57a1",
+            "Tag": "ArmcoBarrier35",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "ad77ad9d-1be0-4408-bd74-3b47107e6dea",
+                "NextSiblingID": "c7076209-eb0c-4188-b2b1-402a8c72c9ca",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    5.60835075378418,
+                    0.8999999761581421,
+                    275.5328674316406
+                ],
+                "Rotation": [
+                    0.0,
+                    40.70000076293945,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "93b5d0a2-5b3b-4396-b6c4-633808f4c5fa",
             "Tag": "Commercials",
             "Relationship": {
@@ -36552,6 +38350,64 @@
             }
         },
         {
+            "ID": "9568977a-12a7-4880-9e6d-a9644bb2020d",
+            "Tag": "ArmcoBarrier22",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "addae482-a3f1-4817-a6f9-6586ee668e1e",
+                "NextSiblingID": "3a75f9e0-a38c-4ccf-99b5-dd28b8d8c0f6",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    122.74246978759766,
+                    0.8999999761581421,
+                    -139.43624877929688
+                ],
+                "Rotation": [
+                    178.02699279785156,
+                    -125.00900268554688,
+                    -176.51023864746094
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "97405f99-41e3-4aa4-bad4-cd3c1397c981",
             "Tag": "TireBR",
             "Relationship": {
@@ -36866,6 +38722,122 @@
             }
         },
         {
+            "ID": "974f1150-177c-426f-b02b-f20adac2bfb7",
+            "Tag": "ArmcoBarrier24",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "3a75f9e0-a38c-4ccf-99b5-dd28b8d8c0f6",
+                "NextSiblingID": "d8059994-4911-46d5-9597-15a5ceae9d85",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    161.19345092773438,
+                    -0.12851405143737793,
+                    -120.32783508300781
+                ],
+                "Rotation": [
+                    -1.9723180532455444,
+                    -8.385000228881836,
+                    3.4792041778564453
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    15.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "977ef9a3-f167-4c7a-89ab-62f79755cca1",
+            "Tag": "ArmcoBarrier27",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "fea1db8d-3d67-4ccb-8014-4092bc27808a",
+                "NextSiblingID": "c23a0bd0-3bdb-411a-977b-db0d3fb5772c",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    190.99856567382813,
+                    0.8999999761581421,
+                    200.40684509277344
+                ],
+                "Rotation": [
+                    0.0,
+                    -18.200000762939453,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    15.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "98817a20-ed86-43dc-8be2-afb9eda3e176",
             "Tag": "SoundWall21",
             "Relationship": {
@@ -36873,7 +38845,7 @@
                 "FirstChildID": "00000000-0000-0000-0000-000000000000",
                 "LastChildID": "00000000-0000-0000-0000-000000000000",
                 "PrevSiblingID": "d9ca59ad-d54e-42ea-99cc-9b7a64cd5b9c",
-                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "8bd1e2a9-514c-4f0a-9be4-97a8b8545e68",
                 "ChildrenCount": 0
             },
             "Transform": {
@@ -37235,6 +39207,64 @@
                         "DoubleSided": false
                     }
                 ]
+            }
+        },
+        {
+            "ID": "991e432b-ee0b-48f0-8353-bc40e0fc8722",
+            "Tag": "ArmcoBarrier56",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "0f7c4754-2637-4808-9276-2fda5d99f5a7",
+                "NextSiblingID": "a549cfa2-df25-4ce7-b915-bf3d07bf03e0",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -348.5354309082031,
+                    0.8999999761581421,
+                    -40.43824768066406
+                ],
+                "Rotation": [
+                    0.0,
+                    -98.80000305175781,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
             }
         },
         {
@@ -38030,6 +40060,64 @@
             }
         },
         {
+            "ID": "9d2caba1-a87a-4a08-86e1-758014a3a6d0",
+            "Tag": "ArmcoBarrier29",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "c23a0bd0-3bdb-411a-977b-db0d3fb5772c",
+                "NextSiblingID": "eb9c1d3d-0da5-4b33-ae78-388aaba41737",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    139.10508728027344,
+                    0.8999999761581421,
+                    193.2322998046875
+                ],
+                "Rotation": [
+                    0.0,
+                    2.700000047683716,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    15.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "9d943117-93dc-44ca-8fd0-62f4c7896267",
             "Tag": "WindshieldF",
             "Relationship": {
@@ -38344,6 +40432,64 @@
             }
         },
         {
+            "ID": "a304abe6-1a4a-43de-945a-794b792c5372",
+            "Tag": "ArmcoBarrier18",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "ecf39e13-864f-40b6-8a71-8c20b80dae73",
+                "NextSiblingID": "cc69d478-8fb1-4632-bb52-7a28bb48d718",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    148.5543212890625,
+                    0.8999999761581421,
+                    -242.0646209716797
+                ],
+                "Rotation": [
+                    -1.162164330482483,
+                    -159.5,
+                    2.2512407302856445
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    23.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "a3289b64-6c30-420f-a243-70dc81fdbca5",
             "Tag": "TireFL",
             "Relationship": {
@@ -38655,6 +40801,64 @@
                         "DoubleSided": false
                     }
                 ]
+            }
+        },
+        {
+            "ID": "a549cfa2-df25-4ce7-b915-bf3d07bf03e0",
+            "Tag": "ArmcoBarrier57",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "991e432b-ee0b-48f0-8353-bc40e0fc8722",
+                "NextSiblingID": "188c61a3-eaf0-49b2-abd7-087fbd21a0d9",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -343.8357849121094,
+                    0.8999999761581421,
+                    -60.15309143066406
+                ],
+                "Rotation": [
+                    0.0,
+                    -107.9000015258789,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
             }
         },
         {
@@ -39112,6 +41316,180 @@
             }
         },
         {
+            "ID": "ac788490-5d84-4ff4-96a1-0af189331714",
+            "Tag": "ArmcoBarrier11",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "84ab4717-6cd0-40e4-8e10-a2a0a90d62ee",
+                "NextSiblingID": "7248b035-a7ef-4bf3-9458-bfff1d90f7ae",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    384.8587951660156,
+                    0.8999999761581421,
+                    -252.6575164794922
+                ],
+                "Rotation": [
+                    -1.162164330482483,
+                    -116.68599700927734,
+                    2.2512407302856445
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "ad77ad9d-1be0-4408-bd74-3b47107e6dea",
+            "Tag": "ArmcoBarrier34",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "2a38ccd7-3583-45b2-b8a1-361eb17fe62c",
+                "NextSiblingID": "927971a1-492b-4859-aa3b-c023cbac57a1",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    19.814172744750977,
+                    0.8999999761581421,
+                    261.9942321777344
+                ],
+                "Rotation": [
+                    0.0,
+                    45.900001525878906,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "addae482-a3f1-4817-a6f9-6586ee668e1e",
+            "Tag": "ArmcoBarrier21",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "de77f9dc-7905-4537-9e97-1f59f167dfef",
+                "NextSiblingID": "9568977a-12a7-4880-9e6d-a9644bb2020d",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    113.05165100097656,
+                    0.8999999761581421,
+                    -165.24005126953125
+                ],
+                "Rotation": [
+                    178.02699279785156,
+                    -100.60900115966797,
+                    -176.51023864746094
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    18.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "b0d2e899-ab16-416c-9f4a-9f50d52ad8cf",
             "Tag": "Meshes",
             "Relationship": {
@@ -39195,6 +41573,180 @@
                 ],
                 "Friction": 0.25,
                 "Restitution": 0.15000000596046448,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "b862eba3-8afc-42d8-a6f5-c9393f752943",
+            "Tag": "ArmcoBarrier16",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "4f45c089-c5af-4fee-8bc8-5a5c9a70a17a",
+                "NextSiblingID": "ecf39e13-864f-40b6-8a71-8c20b80dae73",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    298.43218994140625,
+                    0.8999999761581421,
+                    -234.51577758789063
+                ],
+                "Rotation": [
+                    -1.162164330482483,
+                    -182.6999969482422,
+                    2.2512407302856445
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    38.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "babd3d70-f669-4e08-b991-d5bdae4a7335",
+            "Tag": "ArmcoBarrier46",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "65ede174-6ef7-4264-8494-538b76330de1",
+                "NextSiblingID": "d789b7fe-62ae-4ce7-bbf0-b91c48cb7778",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -210.24148559570313,
+                    0.8999999761581421,
+                    189.22557067871094
+                ],
+                "Rotation": [
+                    0.0,
+                    -50.79999923706055,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    23.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "bb8891ab-dd0c-4ad3-bd61-0d0dc7259ff8",
+            "Tag": "ArmcoBarrier53",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "2a5c68c8-126d-4fe0-a857-4912b6a5760d",
+                "NextSiblingID": "8c023294-bc03-4316-850d-d369ebc1cbda",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -345.8180236816406,
+                    0.8999999761581421,
+                    32.71439743041992
+                ],
+                "Rotation": [
+                    0.0,
+                    -76.9000015258789,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
                 "IsTrigger": false
             }
         },
@@ -49521,6 +52073,64 @@
             }
         },
         {
+            "ID": "c23a0bd0-3bdb-411a-977b-db0d3fb5772c",
+            "Tag": "ArmcoBarrier28",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "977ef9a3-f167-4c7a-89ab-62f79755cca1",
+                "NextSiblingID": "9d2caba1-a87a-4a08-86e1-758014a3a6d0",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    166.06471252441406,
+                    0.8999999761581421,
+                    194.6364288330078
+                ],
+                "Rotation": [
+                    0.0,
+                    -10.600000381469727,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    15.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "c4747297-85dc-4643-83d3-3dc081f08c55",
             "Tag": "WindshieldB",
             "Relationship": {
@@ -49832,6 +52442,64 @@
                         "DoubleSided": false
                     }
                 ]
+            }
+        },
+        {
+            "ID": "c478379f-8c76-4e22-b544-acc62081c4a9",
+            "Tag": "ArmcoBarrier50",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "c973c28d-7282-4b9b-abc5-1aca80fbfcaa",
+                "NextSiblingID": "d6f76aff-3273-42da-a4ba-5725fff47f1a",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -326.7408447265625,
+                    0.8999999761581421,
+                    77.34381866455078
+                ],
+                "Rotation": [
+                    0.0,
+                    -52.70000076293945,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
             }
         },
         {
@@ -50289,6 +52957,122 @@
             }
         },
         {
+            "ID": "c7076209-eb0c-4188-b2b1-402a8c72c9ca",
+            "Tag": "ArmcoBarrier36",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "927971a1-492b-4859-aa3b-c023cbac57a1",
+                "NextSiblingID": "d085f2e0-e368-4757-a13d-98bf2a44ade3",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -10.419849395751953,
+                    0.8999999761581421,
+                    287.8806457519531
+                ],
+                "Rotation": [
+                    0.0,
+                    32.599998474121094,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "c973c28d-7282-4b9b-abc5-1aca80fbfcaa",
+            "Tag": "ArmcoBarrier49",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "3a191bdd-c4dc-45e2-a1c2-fb083c7d72a6",
+                "NextSiblingID": "c478379f-8c76-4e22-b544-acc62081c4a9",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -304.285400390625,
+                    0.8999999761581421,
+                    103.28955841064453
+                ],
+                "Rotation": [
+                    0.0,
+                    -47.79999923706055,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    25.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "cc3622b2-775a-4e94-b4b9-e7e4bc1bef30",
             "Tag": "Spoiler",
             "Relationship": {
@@ -50603,6 +53387,64 @@
             }
         },
         {
+            "ID": "cc69d478-8fb1-4632-bb52-7a28bb48d718",
+            "Tag": "ArmcoBarrier19",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "a304abe6-1a4a-43de-945a-794b792c5372",
+                "NextSiblingID": "de77f9dc-7905-4537-9e97-1f59f167dfef",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    118.61103057861328,
+                    0.8999999761581421,
+                    -217.51666259765625
+                ],
+                "Rotation": [
+                    178.02699279785156,
+                    -56.509422302246094,
+                    -176.51023864746094
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    20.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "cd9064b1-83d3-4070-a5e4-d0ff570b95a4",
             "Tag": "SoundWall10",
             "Relationship": {
@@ -50657,6 +53499,64 @@
                 ],
                 "Friction": 0.25,
                 "Restitution": 0.15000000596046448,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "d085f2e0-e368-4757-a13d-98bf2a44ade3",
+            "Tag": "ArmcoBarrier37",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "c7076209-eb0c-4188-b2b1-402a8c72c9ca",
+                "NextSiblingID": "8ea6c96b-5a6b-44d8-8baf-166e5f927504",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -22.64084815979004,
+                    0.8999999761581421,
+                    295.6963195800781
+                ],
+                "Rotation": [
+                    0.0,
+                    32.599998474121094,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
                 "IsTrigger": false
             }
         },
@@ -50719,6 +53619,180 @@
             }
         },
         {
+            "ID": "d5808eba-9957-41c0-8df8-f7e03f82231b",
+            "Tag": "ArmcoBarrier40",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "4f81eff7-49d7-4bf4-b5d8-7765e7188eee",
+                "NextSiblingID": "5727582b-e7c8-4e49-95a0-18cc3998d94a",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -95.65218353271484,
+                    0.8999999761581421,
+                    300.6801452636719
+                ],
+                "Rotation": [
+                    0.0,
+                    -12.899999618530273,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "d6f76aff-3273-42da-a4ba-5725fff47f1a",
+            "Tag": "ArmcoBarrier51",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "c478379f-8c76-4e22-b544-acc62081c4a9",
+                "NextSiblingID": "2a5c68c8-126d-4fe0-a857-4912b6a5760d",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -335.3685302734375,
+                    0.8999999761581421,
+                    63.556640625
+                ],
+                "Rotation": [
+                    0.0,
+                    -63.5,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    8.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "d789b7fe-62ae-4ce7-bbf0-b91c48cb7778",
+            "Tag": "ArmcoBarrier47",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "babd3d70-f669-4e08-b991-d5bdae4a7335",
+                "NextSiblingID": "3a191bdd-c4dc-45e2-a1c2-fb083c7d72a6",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -237.71185302734375,
+                    0.8999999761581421,
+                    161.48277282714844
+                ],
+                "Rotation": [
+                    0.0,
+                    -39.20000076293945,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    23.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "d7ccc916-46a9-4613-a513-9655c64c3246",
             "Tag": "Meshes",
             "Relationship": {
@@ -50745,6 +53819,64 @@
                     1.0,
                     1.0
                 ]
+            }
+        },
+        {
+            "ID": "d8059994-4911-46d5-9597-15a5ceae9d85",
+            "Tag": "ArmcoBarrier25",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "974f1150-177c-426f-b02b-f20adac2bfb7",
+                "NextSiblingID": "fea1db8d-3d67-4ccb-8014-4092bc27808a",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    196.09751892089844,
+                    0.8999999761581421,
+                    -116.7942123413086
+                ],
+                "Rotation": [
+                    0.0,
+                    -3.799999952316284,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    20.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
             }
         },
         {
@@ -51359,6 +54491,122 @@
             }
         },
         {
+            "ID": "de38d783-32e3-413c-8a49-d2817dc18b39",
+            "Tag": "ArmcoBarrier8",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "16563b2c-02b3-4600-b1ab-2b3a6f8cd836",
+                "NextSiblingID": "6f7b06d9-8d9c-417d-80a5-692873346ae6",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    390.392578125,
+                    0.8999999761581421,
+                    -281.2165222167969
+                ],
+                "Rotation": [
+                    -1.162164330482483,
+                    -82.7859115600586,
+                    2.2512407302856445
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "de77f9dc-7905-4537-9e97-1f59f167dfef",
+            "Tag": "ArmcoBarrier20",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "cc69d478-8fb1-4632-bb52-7a28bb48d718",
+                "NextSiblingID": "addae482-a3f1-4817-a6f9-6586ee668e1e",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    109.74730682373047,
+                    0.8999999761581421,
+                    -191.08358764648438
+                ],
+                "Rotation": [
+                    178.02699279785156,
+                    -84.40899658203125,
+                    -176.51023864746094
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    15.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "e26c50d1-88ab-464a-8cda-fd2188ba1fc8",
             "Tag": "DoorL",
             "Relationship": {
@@ -51785,6 +55033,122 @@
                 ],
                 "Friction": 0.25,
                 "Restitution": 0.15000000596046448,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "eb9c1d3d-0da5-4b33-ae78-388aaba41737",
+            "Tag": "ArmcoBarrier30",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "9d2caba1-a87a-4a08-86e1-758014a3a6d0",
+                "NextSiblingID": "68be868e-fbf3-4c1e-aea0-36c28f20c267",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    116.92543029785156,
+                    0.8999999761581421,
+                    196.6458740234375
+                ],
+                "Rotation": [
+                    0.0,
+                    10.899999618530273,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    15.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "ecf39e13-864f-40b6-8a71-8c20b80dae73",
+            "Tag": "ArmcoBarrier17",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "b862eba3-8afc-42d8-a6f5-c9393f752943",
+                "NextSiblingID": "a304abe6-1a4a-43de-945a-794b792c5372",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    201.6616668701172,
+                    0.8999999761581421,
+                    -248.77801513671875
+                ],
+                "Rotation": [
+                    -1.162164330482483,
+                    -182.6999969482422,
+                    2.2512407302856445
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
                 "IsTrigger": false
             }
         },
@@ -52475,6 +55839,64 @@
             }
         },
         {
+            "ID": "f628485c-0e8f-4107-874d-98add8ac754f",
+            "Tag": "ArmcoBarrier60",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "4a787ab6-9263-41ab-9ea7-133791c5ee18",
+                "NextSiblingID": "7f5a114a-7bf9-416b-8e8b-0e697f445ae0",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -309.6680908203125,
+                    0.8999999761581421,
+                    -102.76997375488281
+                ],
+                "Rotation": [
+                    0.0,
+                    -154.89999389648438,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "fe1dc48f-0dfc-42f6-9e9d-1f81f2acf59d",
             "Tag": "SoundWall2",
             "Relationship": {
@@ -52529,6 +55951,122 @@
                 ],
                 "Friction": 0.25,
                 "Restitution": 0.15000000596046448,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "fe7ef40b-f1e3-49e4-9016-fd356fe74e56",
+            "Tag": "ArmcoBarrier13",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "7248b035-a7ef-4bf3-9458-bfff1d90f7ae",
+                "NextSiblingID": "02b93383-e098-4f8a-b4fa-98a651389754",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    372.88983154296875,
+                    0.8999999761581421,
+                    -240.3065948486328
+                ],
+                "Rotation": [
+                    -1.162164330482483,
+                    -154.88600158691406,
+                    2.2512407302856445
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "fea1db8d-3d67-4ccb-8014-4092bc27808a",
+            "Tag": "ArmcoBarrier26",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "d8059994-4911-46d5-9597-15a5ceae9d85",
+                "NextSiblingID": "977ef9a3-f167-4c7a-89ab-62f79755cca1",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    222.4237823486328,
+                    0.8999999761581421,
+                    213.71800231933594
+                ],
+                "Rotation": [
+                    0.0,
+                    -28.299999237060547,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    20.0,
+                    1.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.20000000298023224,
+                "Restitution": 0.07999999821186066,
                 "IsTrigger": false
             }
         }
