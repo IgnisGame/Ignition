@@ -25434,6 +25434,64 @@
             }
         },
         {
+            "ID": "053c8301-57f3-450a-bf36-807b2ff37ab6",
+            "Tag": "MetalMesh43",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "3de8618d-93e0-4b4b-8286-93c3ef1e08f9",
+                "NextSiblingID": "8bafda1d-9d49-4a3c-ace2-0320b43a2e3f",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -211.9356689453125,
+                    2.5,
+                    -100.5607681274414
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    15.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "0612a9c0-c235-4066-87cc-6259d3cdc991",
             "Tag": "SoundWall17",
             "Relationship": {
@@ -25835,6 +25893,64 @@
             }
         },
         {
+            "ID": "0d73d3e3-f2f7-4895-8e00-0c1a6ddc965c",
+            "Tag": "MetalMesh27",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "4b73a95a-1a6c-4b6c-b490-968ced95044c",
+                "NextSiblingID": "b7d605c0-cc7c-47df-96bb-21857eae55a4",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    43.05864715576172,
+                    2.5,
+                    279.0588684082031
+                ],
+                "Rotation": [
+                    0.0,
+                    -137.10000610351563,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "0ea9f8ac-785f-4ab9-80c3-77fdc52b84c6",
             "Tag": "ArmcoBarrier6",
             "Relationship": {
@@ -26165,15 +26281,73 @@
             }
         },
         {
+            "ID": "18b02953-057f-4e6d-af4a-4278c556e798",
+            "Tag": "MetalMesh17",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "c09c9ebd-8753-44a8-b1e0-416843787a69",
+                "NextSiblingID": "e9cb7b35-5ad9-4cf5-8335-677fc497746b",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    430.01385498046875,
+                    2.5,
+                    297.5622863769531
+                ],
+                "Rotation": [
+                    0.0,
+                    -132.39999389648438,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    40.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "1955e136-eb59-44fd-89ce-730848dec20e",
             "Tag": "Colliders",
             "Relationship": {
                 "ParentID": "09b116af-6aba-4b0a-a4d3-8ce379b43804",
                 "FirstChildID": "1d3fb8b3-675f-4f0d-a0d2-96fcec419498",
-                "LastChildID": "7f5a114a-7bf9-416b-8e8b-0e697f445ae0",
+                "LastChildID": "afacb3c9-99d4-474f-9d14-0f57ae8e4045",
                 "PrevSiblingID": "b0d2e899-ab16-416c-9f4a-9f50d52ad8cf",
                 "NextSiblingID": "00000000-0000-0000-0000-000000000000",
-                "ChildrenCount": 83
+                "ChildrenCount": 144
             },
             "Transform": {
                 "Translation": [
@@ -27246,6 +27420,122 @@
             }
         },
         {
+            "ID": "25e6e690-580f-42c4-9f53-462189def193",
+            "Tag": "MetalMesh2",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "cf28bbfa-577f-479e-be0c-9da683eccc40",
+                "NextSiblingID": "60578d8b-2605-47f2-8127-fbc0402e4cb6",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    13.417847633361816,
+                    2.5,
+                    -303.5275573730469
+                ],
+                "Rotation": [
+                    0.0,
+                    34.400001525878906,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "27e827cc-f768-4e72-801a-cacd4ddaf810",
+            "Tag": "MetalMesh36",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "830c8aef-d6f0-43b2-b8de-68a841b0bc8b",
+                "NextSiblingID": "c433da73-d788-4044-a2e0-172130ca34e0",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -367.1243591308594,
+                    2.5,
+                    62.88310623168945
+                ],
+                "Rotation": [
+                    0.0,
+                    -246.5,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    40.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "2a38ccd7-3583-45b2-b8a1-361eb17fe62c",
             "Tag": "ArmcoBarrier33",
             "Relationship": {
@@ -27416,6 +27706,64 @@
                 ],
                 "Friction": 0.25,
                 "Restitution": 0.15000000596046448,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "2c98d3f7-da6e-4614-a535-0b13ee5f4104",
+            "Tag": "MetalMesh41",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "5b9625e9-8d8f-4e77-911e-57c88e3b2038",
+                "NextSiblingID": "3de8618d-93e0-4b4b-8286-93c3ef1e08f9",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -255.42532348632813,
+                    2.5,
+                    -110.30365753173828
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    29.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -28160,6 +28508,64 @@
                 ],
                 "Friction": 0.25,
                 "Restitution": 0.15000000596046448,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "34ae2444-025e-430b-a2a5-0bf048d19b91",
+            "Tag": "MetalMesh12",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "703f563d-a95e-4a2b-8b12-89c105286417",
+                "NextSiblingID": "d424cdad-54d7-44e9-b213-4fc43d54e80c",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    283.2147521972656,
+                    2.5,
+                    -110.99095916748047
+                ],
+                "Rotation": [
+                    0.0,
+                    -73.69999694824219,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -29154,6 +29560,64 @@
             }
         },
         {
+            "ID": "3a993268-7cd3-4403-a844-5d78bcd37f99",
+            "Tag": "MetalMesh54",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "4736e0ca-7c99-4027-9920-69468c1ab4b9",
+                "NextSiblingID": "f9a548ef-0d3e-4f17-b1e8-b1a060ba0fb1",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -251.8039093017578,
+                    2.5,
+                    -181.8126678466797
+                ],
+                "Rotation": [
+                    0.0,
+                    2.5,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    25.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "3b21da51-f9ca-484a-adc5-24dbb2f1d104",
             "Tag": "ConnectionTrack",
             "Relationship": {
@@ -29605,6 +30069,64 @@
                         "DoubleSided": false
                     }
                 ]
+            }
+        },
+        {
+            "ID": "3b9ada1f-f450-4762-836a-e179ad91b813",
+            "Tag": "MetalMesh38",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "c433da73-d788-4044-a2e0-172130ca34e0",
+                "NextSiblingID": "b503f57a-67a4-4296-8bb0-36007f7bb138",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -369.89288330078125,
+                    2.5,
+                    -74.48118591308594
+                ],
+                "Rotation": [
+                    0.0,
+                    -287.8999938964844,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    40.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
             }
         },
         {
@@ -33562,6 +34084,122 @@
             }
         },
         {
+            "ID": "3de8618d-93e0-4b4b-8286-93c3ef1e08f9",
+            "Tag": "MetalMesh42",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "2c98d3f7-da6e-4614-a535-0b13ee5f4104",
+                "NextSiblingID": "053c8301-57f3-450a-bf36-807b2ff37ab6",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -226.48190307617188,
+                    2.5,
+                    -105.69047546386719
+                ],
+                "Rotation": [
+                    0.0,
+                    90.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "3fadb4c2-2f5a-4a3f-85fa-fb2df91ff44d",
+            "Tag": "MetalMesh4",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "60578d8b-2605-47f2-8127-fbc0402e4cb6",
+                "NextSiblingID": "80f1c748-d5d8-4a7d-b73a-768b8be8baf9",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    45.77788162231445,
+                    2.5,
+                    -322.5833740234375
+                ],
+                "Rotation": [
+                    0.0,
+                    21.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    8.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "4291fbc7-9fee-4520-ae28-dae8cc3f1521",
             "Tag": "ArmcoBarrier44",
             "Relationship": {
@@ -33616,6 +34254,180 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "4736e0ca-7c99-4027-9920-69468c1ab4b9",
+            "Tag": "MetalMesh53",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "68c37179-fa0e-45b9-9781-345da7c9b8eb",
+                "NextSiblingID": "3a993268-7cd3-4403-a844-5d78bcd37f99",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -226.40257263183594,
+                    2.5,
+                    -178.19216918945313
+                ],
+                "Rotation": [
+                    0.0,
+                    90.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "4772653b-3a46-43be-ad5e-fe367f7987c4",
+            "Tag": "MetalMesh59",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "47f4f913-a6bd-413d-8ceb-72f2bf3333c9",
+                "NextSiblingID": "6d53cf6e-6e20-4a39-bfdf-0fcc5e14078c",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -424.5028076171875,
+                    4.418831825256348,
+                    -331.18975830078125
+                ],
+                "Rotation": [
+                    0.0,
+                    -135.10000610351563,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    35.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "47f4f913-a6bd-413d-8ceb-72f2bf3333c9",
+            "Tag": "MetalMesh58",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "7da44bfb-dc45-43b1-83d6-9febf94ecbbd",
+                "NextSiblingID": "4772653b-3a46-43be-ad5e-fe367f7987c4",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -450.68878173828125,
+                    4.418831825256348,
+                    -282.3756408691406
+                ],
+                "Rotation": [
+                    0.0,
+                    -99.19999694824219,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -33732,6 +34544,64 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "4b73a95a-1a6c-4b6c-b490-968ced95044c",
+            "Tag": "MetalMesh26",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "e4144f89-4ee8-41e8-b9ad-4c9267cdb874",
+                "NextSiblingID": "0d73d3e3-f2f7-4895-8e00-0c1a6ddc965c",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    76.28996276855469,
+                    2.5,
+                    250.94622802734375
+                ],
+                "Rotation": [
+                    0.0,
+                    -143.1999969482422,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    17.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -35166,6 +36036,122 @@
             }
         },
         {
+            "ID": "529212ab-065d-4d06-80d5-5885b6d1e1b1",
+            "Tag": "MetalMesh22",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "ee0b9f23-f983-4e87-8189-43c08f6e80f2",
+                "NextSiblingID": "ba065c9d-72c8-46a2-9f37-b6878a5687ab",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    195.7841339111328,
+                    2.5,
+                    237.97952270507813
+                ],
+                "Rotation": [
+                    0.0,
+                    -203.10000610351563,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    17.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "52d69704-b6a0-4cc1-9640-db3ba5633dd3",
+            "Tag": "MetalMesh46",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "729ce74e-ff6b-4282-bc8e-61dabe9f0a62",
+                "NextSiblingID": "76b89645-b662-4cc7-a99b-1fd324a2682b",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -102.48847961425781,
+                    2.5,
+                    -106.33499145507813
+                ],
+                "Rotation": [
+                    0.0,
+                    -1.100000023841858,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    40.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "534831b7-06cf-41d5-a58f-419a1181970e",
             "Tag": "SoundWall5",
             "Relationship": {
@@ -35224,6 +36210,64 @@
             }
         },
         {
+            "ID": "561fead7-2958-4934-8b34-f77216dac042",
+            "Tag": "MetalMesh33",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "d0b13a4b-275f-41f4-b15e-a7283f5640a6",
+                "NextSiblingID": "a2f9bae3-c5a8-4a54-8c02-2b4b85073355",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -248.681884765625,
+                    2.5,
+                    189.50918579101563
+                ],
+                "Rotation": [
+                    0.0,
+                    -219.5,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    25.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "5727582b-e7c8-4e49-95a0-18cc3998d94a",
             "Tag": "ArmcoBarrier41",
             "Relationship": {
@@ -35278,6 +36322,64 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "5b9625e9-8d8f-4e77-911e-57c88e3b2038",
+            "Tag": "MetalMesh40",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "b503f57a-67a4-4296-8bb0-36007f7bb138",
+                "NextSiblingID": "2c98d3f7-da6e-4614-a535-0b13ee5f4104",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -275.3909912109375,
+                    2.5,
+                    -141.5001678466797
+                ],
+                "Rotation": [
+                    0.0,
+                    -363.70001220703125,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    20.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -35651,6 +36753,122 @@
                         "DoubleSided": false
                     }
                 ]
+            }
+        },
+        {
+            "ID": "5fe93bb1-649a-4745-9b29-5fab8ad33547",
+            "Tag": "MetalMesh51",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "e8846a4c-5a5a-44a1-924d-82c1ff7a75e4",
+                "NextSiblingID": "68c37179-fa0e-45b9-9781-345da7c9b8eb",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -197.15652465820313,
+                    2.5,
+                    -178.02159118652344
+                ],
+                "Rotation": [
+                    0.0,
+                    90.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "60578d8b-2605-47f2-8127-fbc0402e4cb6",
+            "Tag": "MetalMesh3",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "25e6e690-580f-42c4-9f53-462189def193",
+                "NextSiblingID": "3fadb4c2-2f5a-4a3f-85fa-fb2df91ff44d",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    58.81357955932617,
+                    2.5,
+                    -324.6446533203125
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
             }
         },
         {
@@ -36200,6 +37418,180 @@
             }
         },
         {
+            "ID": "68c37179-fa0e-45b9-9781-345da7c9b8eb",
+            "Tag": "MetalMesh52",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "5fe93bb1-649a-4745-9b29-5fab8ad33547",
+                "NextSiblingID": "4736e0ca-7c99-4027-9920-69468c1ab4b9",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -211.79812622070313,
+                    2.5,
+                    -172.84600830078125
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    15.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "6af018d3-877c-40ea-94e5-05c5fe06e310",
+            "Tag": "MetalMesh10",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "9374640e-e956-404f-a32e-e4851ad8a682",
+                "NextSiblingID": "703f563d-a95e-4a2b-8b12-89c105286417",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    305.0364990234375,
+                    2.5,
+                    -202.0548858642578
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    72.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "6d53cf6e-6e20-4a39-bfdf-0fcc5e14078c",
+            "Tag": "MetalMesh60",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "4772653b-3a46-43be-ad5e-fe367f7987c4",
+                "NextSiblingID": "afacb3c9-99d4-474f-9d14-0f57ae8e4045",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -381.9484558105469,
+                    4.418831825256348,
+                    -355.2407531738281
+                ],
+                "Rotation": [
+                    0.0,
+                    5.400000095367432,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    25.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "6f7b06d9-8d9c-417d-80a5-692873346ae6",
             "Tag": "ArmcoBarrier9",
             "Relationship": {
@@ -36258,6 +37650,122 @@
             }
         },
         {
+            "ID": "6fd174d1-27cc-41ea-b0b8-9d3ccebcc85e",
+            "Tag": "MetalMesh20",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "98840e1c-41dc-4f46-a111-ee4cfc90028b",
+                "NextSiblingID": "ee0b9f23-f983-4e87-8189-43c08f6e80f2",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    253.8516082763672,
+                    2.5,
+                    290.7926940917969
+                ],
+                "Rotation": [
+                    0.0,
+                    -227.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    25.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "703f563d-a95e-4a2b-8b12-89c105286417",
+            "Tag": "MetalMesh11",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "6af018d3-877c-40ea-94e5-05c5fe06e310",
+                "NextSiblingID": "34ae2444-025e-430b-a2a5-0bf048d19b91",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    254.1830291748047,
+                    2.5,
+                    -147.35476684570313
+                ],
+                "Rotation": [
+                    0.0,
+                    -19.799999237060547,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    22.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "7248b035-a7ef-4bf3-9458-bfff1d90f7ae",
             "Tag": "ArmcoBarrier12",
             "Relationship": {
@@ -36312,6 +37820,122 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "729ce74e-ff6b-4282-bc8e-61dabe9f0a62",
+            "Tag": "MetalMesh45",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "8bafda1d-9d49-4a3c-ace2-0320b43a2e3f",
+                "NextSiblingID": "52d69704-b6a0-4cc1-9640-db3ba5633dd3",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -169.42120361328125,
+                    2.5,
+                    -108.93815612792969
+                ],
+                "Rotation": [
+                    0.0,
+                    -3.299999952316284,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    28.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "76b89645-b662-4cc7-a99b-1fd324a2682b",
+            "Tag": "MetalMesh47",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "52d69704-b6a0-4cc1-9640-db3ba5633dd3",
+                "NextSiblingID": "a797f97f-5e73-4729-944e-0d58ffb2397e",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -48.182125091552734,
+                    2.5,
+                    -128.23387145996094
+                ],
+                "Rotation": [
+                    0.0,
+                    51.400001525878906,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -36630,6 +38254,122 @@
             }
         },
         {
+            "ID": "7da44bfb-dc45-43b1-83d6-9febf94ecbbd",
+            "Tag": "MetalMesh57",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "c595bd69-c107-4ddd-abb8-f47bab0d2c04",
+                "NextSiblingID": "47f4f913-a6bd-413d-8ceb-72f2bf3333c9",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -442.13909912109375,
+                    4.418831825256348,
+                    -230.1568603515625
+                ],
+                "Rotation": [
+                    0.0,
+                    -60.29999923706055,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "7e4a5841-4c27-4bf2-995f-bff575ff6aec",
+            "Tag": "MetalMesh6",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "80f1c748-d5d8-4a7d-b73a-768b8be8baf9",
+                "NextSiblingID": "92a825b1-c9c4-4cfd-85a6-f465bb8a5b92",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    384.11688232421875,
+                    2.5,
+                    -353.3204345703125
+                ],
+                "Rotation": [
+                    0.0,
+                    -22.799999237060547,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    28.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "7f5a114a-7bf9-416b-8e8b-0e697f445ae0",
             "Tag": "ArmcoBarrier61",
             "Relationship": {
@@ -36637,7 +38377,7 @@
                 "FirstChildID": "00000000-0000-0000-0000-000000000000",
                 "LastChildID": "00000000-0000-0000-0000-000000000000",
                 "PrevSiblingID": "f628485c-0e8f-4107-874d-98add8ac754f",
-                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "cf28bbfa-577f-479e-be0c-9da683eccc40",
                 "ChildrenCount": 0
             },
             "Transform": {
@@ -36742,6 +38482,122 @@
                 ],
                 "Friction": 0.25,
                 "Restitution": 0.15000000596046448,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "80f1c748-d5d8-4a7d-b73a-768b8be8baf9",
+            "Tag": "MetalMesh5",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "3fadb4c2-2f5a-4a3f-85fa-fb2df91ff44d",
+                "NextSiblingID": "7e4a5841-4c27-4bf2-995f-bff575ff6aec",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    309.9588317871094,
+                    2.5,
+                    -361.90936279296875
+                ],
+                "Rotation": [
+                    0.0,
+                    2.5,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    50.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "830c8aef-d6f0-43b2-b8de-68a841b0bc8b",
+            "Tag": "MetalMesh35",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "a2f9bae3-c5a8-4a54-8c02-2b4b85073355",
+                "NextSiblingID": "27e827cc-f768-4e72-801a-cacd4ddaf810",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -327.4623718261719,
+                    2.5,
+                    124.4048843383789
+                ],
+                "Rotation": [
+                    0.0,
+                    -225.8000030517578,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    40.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -37630,6 +39486,64 @@
             }
         },
         {
+            "ID": "8bafda1d-9d49-4a3c-ace2-0320b43a2e3f",
+            "Tag": "MetalMesh44",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "053c8301-57f3-450a-bf36-807b2ff37ab6",
+                "NextSiblingID": "729ce74e-ff6b-4282-bc8e-61dabe9f0a62",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -197.03878784179688,
+                    2.5,
+                    -105.59114837646484
+                ],
+                "Rotation": [
+                    0.0,
+                    90.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    5.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "8bd1e2a9-514c-4f0a-9be4-97a8b8545e68",
             "Tag": "ArmcoBarrier1",
             "Relationship": {
@@ -37742,6 +39656,64 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "8e8e98e9-f618-42d6-9d27-b1e5071040b5",
+            "Tag": "MetalMesh14",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "d424cdad-54d7-44e9-b213-4fc43d54e80c",
+                "NextSiblingID": "aadedcbf-0669-4d75-ad83-a60e4c9caec3",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    321.5212097167969,
+                    2.5,
+                    78.2706069946289
+                ],
+                "Rotation": [
+                    0.0,
+                    -56.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    15.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -37974,6 +39946,180 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "928ff418-8ac4-4f8f-8ae4-e23921b677b4",
+            "Tag": "MetalMesh49",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "a797f97f-5e73-4729-944e-0d58ffb2397e",
+                "NextSiblingID": "e8846a4c-5a5a-44a1-924d-82c1ff7a75e4",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -87.26962280273438,
+                    2.5,
+                    -212.96876525878906
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    35.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "92a825b1-c9c4-4cfd-85a6-f465bb8a5b92",
+            "Tag": "MetalMesh7",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "7e4a5841-4c27-4bf2-995f-bff575ff6aec",
+                "NextSiblingID": "ac10ce77-158d-4f97-acd4-b62841996322",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    419.31982421875,
+                    2.5,
+                    -317.9605407714844
+                ],
+                "Rotation": [
+                    0.0,
+                    -244.89999389648438,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "9374640e-e956-404f-a32e-e4851ad8a682",
+            "Tag": "MetalMesh9",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "ac10ce77-158d-4f97-acd4-b62841996322",
+                "NextSiblingID": "6af018d3-877c-40ea-94e5-05c5fe06e310",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    397.4551086425781,
+                    2.5,
+                    -217.86419677734375
+                ],
+                "Rotation": [
+                    0.0,
+                    -323.5,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -38896,6 +41042,64 @@
             }
         },
         {
+            "ID": "98840e1c-41dc-4f46-a111-ee4cfc90028b",
+            "Tag": "MetalMesh19",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "e9cb7b35-5ad9-4cf5-8335-677fc497746b",
+                "NextSiblingID": "6fd174d1-27cc-41ea-b0b8-9d3ccebcc85e",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    293.978515625,
+                    2.5,
+                    315.7586669921875
+                ],
+                "Rotation": [
+                    0.0,
+                    -204.1999969482422,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    43.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "98a8dbe5-0bfd-4cce-8261-03bcb2e11ab5",
             "Tag": "TireFR",
             "Relationship": {
@@ -39264,6 +41468,64 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "9be5267b-bf3c-4e9d-b7e0-83f06f9ae08c",
+            "Tag": "MetalMesh31",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "c7d6b97a-6cee-4bd6-ad1d-d50dfc761d6a",
+                "NextSiblingID": "d0b13a4b-275f-41f4-b15e-a7283f5640a6",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -156.37425231933594,
+                    2.5,
+                    294.04779052734375
+                ],
+                "Rotation": [
+                    0.0,
+                    -219.6999969482422,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -40432,6 +42694,64 @@
             }
         },
         {
+            "ID": "a2f9bae3-c5a8-4a54-8c02-2b4b85073355",
+            "Tag": "MetalMesh34",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "561fead7-2958-4934-8b34-f77216dac042",
+                "NextSiblingID": "830c8aef-d6f0-43b2-b8de-68a841b0bc8b",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -286.7429504394531,
+                    2.5,
+                    159.89035034179688
+                ],
+                "Rotation": [
+                    0.0,
+                    -215.60000610351563,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    25.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "a304abe6-1a4a-43de-945a-794b792c5372",
             "Tag": "ArmcoBarrier18",
             "Relationship": {
@@ -40858,6 +43178,64 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "a797f97f-5e73-4729-944e-0d58ffb2397e",
+            "Tag": "MetalMesh48",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "76b89645-b662-4cc7-a99b-1fd324a2682b",
+                "NextSiblingID": "928ff418-8ac4-4f8f-8ae4-e23921b677b4",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -43.48244857788086,
+                    2.5,
+                    -181.17335510253906
+                ],
+                "Rotation": [
+                    0.0,
+                    112.19999694824219,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    40.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -41316,6 +43694,122 @@
             }
         },
         {
+            "ID": "aadedcbf-0669-4d75-ad83-a60e4c9caec3",
+            "Tag": "MetalMesh15",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "8e8e98e9-f618-42d6-9d27-b1e5071040b5",
+                "NextSiblingID": "c09c9ebd-8753-44a8-b1e0-416843787a69",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    381.1377868652344,
+                    2.5,
+                    140.891357421875
+                ],
+                "Rotation": [
+                    0.0,
+                    -44.79999923706055,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    70.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "ac10ce77-158d-4f97-acd4-b62841996322",
+            "Tag": "MetalMesh8",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "92a825b1-c9c4-4cfd-85a6-f465bb8a5b92",
+                "NextSiblingID": "9374640e-e956-404f-a32e-e4851ad8a682",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    425.53704833984375,
+                    2.5,
+                    -260.4410095214844
+                ],
+                "Rotation": [
+                    0.0,
+                    -280.8999938964844,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "ac788490-5d84-4ff4-96a1-0af189331714",
             "Tag": "ArmcoBarrier11",
             "Relationship": {
@@ -41490,6 +43984,64 @@
             }
         },
         {
+            "ID": "afacb3c9-99d4-474f-9d14-0f57ae8e4045",
+            "Tag": "MetalMesh61",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "6d53cf6e-6e20-4a39-bfdf-0fcc5e14078c",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -342.7003479003906,
+                    4.418831825256348,
+                    -354.07958984375
+                ],
+                "Rotation": [
+                    0.0,
+                    -12.199999809265137,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    20.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "b0d2e899-ab16-416c-9f4a-9f50d52ad8cf",
             "Tag": "Meshes",
             "Relationship": {
@@ -41577,6 +44129,122 @@
             }
         },
         {
+            "ID": "b503f57a-67a4-4296-8bb0-36007f7bb138",
+            "Tag": "MetalMesh39",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "3b9ada1f-f450-4762-836a-e179ad91b813",
+                "NextSiblingID": "5b9625e9-8d8f-4e77-911e-57c88e3b2038",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -326.17926025390625,
+                    2.5,
+                    -126.61055755615234
+                ],
+                "Rotation": [
+                    0.0,
+                    -331.8999938964844,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    40.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "b7d605c0-cc7c-47df-96bb-21857eae55a4",
+            "Tag": "MetalMesh28",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "0d73d3e3-f2f7-4895-8e00-0c1a6ddc965c",
+                "NextSiblingID": "e5ec4558-67e1-4ede-a808-789d1a58420d",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -3.902205228805542,
+                    2.5,
+                    313.9527893066406
+                ],
+                "Rotation": [
+                    0.0,
+                    -149.89999389648438,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "b862eba3-8afc-42d8-a6f5-c9393f752943",
             "Tag": "ArmcoBarrier16",
             "Relationship": {
@@ -41631,6 +44299,64 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "ba065c9d-72c8-46a2-9f37-b6878a5687ab",
+            "Tag": "MetalMesh23",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "529212ab-065d-4d06-80d5-5885b6d1e1b1",
+                "NextSiblingID": "d81d889f-ea9b-4945-b764-4e7c81d14c9b",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    167.23609924316406,
+                    2.5,
+                    229.54034423828125
+                ],
+                "Rotation": [
+                    0.0,
+                    -191.6999969482422,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    17.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -41747,6 +44473,64 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "c09c9ebd-8753-44a8-b1e0-416843787a69",
+            "Tag": "MetalMesh16",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "aadedcbf-0669-4d75-ad83-a60e4c9caec3",
+                "NextSiblingID": "18b02953-057f-4e6d-af4a-4278c556e798",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    443.4639587402344,
+                    2.5,
+                    228.34075927734375
+                ],
+                "Rotation": [
+                    0.0,
+                    -71.80000305175781,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    42.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -52131,6 +54915,64 @@
             }
         },
         {
+            "ID": "c433da73-d788-4044-a2e0-172130ca34e0",
+            "Tag": "MetalMesh37",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "27e827cc-f768-4e72-801a-cacd4ddaf810",
+                "NextSiblingID": "3b9ada1f-f450-4762-836a-e179ad91b813",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -381.17626953125,
+                    2.5,
+                    -10.803426742553711
+                ],
+                "Rotation": [
+                    0.0,
+                    -270.20001220703125,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    40.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "c4747297-85dc-4643-83d3-3dc081f08c55",
             "Tag": "WindshieldB",
             "Relationship": {
@@ -52499,6 +55341,122 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "c595bd69-c107-4ddd-abb8-f47bab0d2c04",
+            "Tag": "MetalMesh56",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "f9a548ef-0d3e-4f17-b1e8-b1a060ba0fb1",
+                "NextSiblingID": "7da44bfb-dc45-43b1-83d6-9febf94ecbbd",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -388.1180114746094,
+                    4.418831825256348,
+                    -189.77932739257813
+                ],
+                "Rotation": [
+                    0.0,
+                    -21.700000762939453,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    45.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "c69e5e31-32bc-4288-ab60-cfbd6352fcd5",
+            "Tag": "MetalMesh6 (Copy)",
+            "Relationship": {
+                "ParentID": "00000000-0000-0000-0000-000000000000",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    -22.799999237060547,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    25.0,
+                    3.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -53015,6 +55973,64 @@
             }
         },
         {
+            "ID": "c7d6b97a-6cee-4bd6-ad1d-d50dfc761d6a",
+            "Tag": "MetalMesh30",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "e5ec4558-67e1-4ede-a808-789d1a58420d",
+                "NextSiblingID": "9be5267b-bf3c-4e9d-b7e0-83f06f9ae08c",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -109.29935455322266,
+                    2.5,
+                    320.26104736328125
+                ],
+                "Rotation": [
+                    0.0,
+                    -197.8000030517578,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "c973c28d-7282-4b9b-abc5-1aca80fbfcaa",
             "Tag": "ArmcoBarrier49",
             "Relationship": {
@@ -53503,6 +56519,64 @@
             }
         },
         {
+            "ID": "cf28bbfa-577f-479e-be0c-9da683eccc40",
+            "Tag": "MetalMesh1",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "7f5a114a-7bf9-416b-8e8b-0e697f445ae0",
+                "NextSiblingID": "25e6e690-580f-42c4-9f53-462189def193",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -143.54449462890625,
+                    2.5,
+                    -324.5411376953125
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    72.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "d085f2e0-e368-4757-a13d-98bf2a44ade3",
             "Tag": "ArmcoBarrier37",
             "Relationship": {
@@ -53557,6 +56631,122 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "d0b13a4b-275f-41f4-b15e-a7283f5640a6",
+            "Tag": "MetalMesh32",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "9be5267b-bf3c-4e9d-b7e0-83f06f9ae08c",
+                "NextSiblingID": "561fead7-2958-4934-8b34-f77216dac042",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -201.97726440429688,
+                    2.5,
+                    242.56114196777344
+                ],
+                "Rotation": [
+                    0.0,
+                    -233.3000030517578,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    50.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "d424cdad-54d7-44e9-b213-4fc43d54e80c",
+            "Tag": "MetalMesh13",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "34ae2444-025e-430b-a2a5-0bf048d19b91",
+                "NextSiblingID": "8e8e98e9-f618-42d6-9d27-b1e5071040b5",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    305.65252685546875,
+                    2.5,
+                    42.78009796142578
+                ],
+                "Rotation": [
+                    0.0,
+                    -73.69999694824219,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    23.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -53876,6 +57066,64 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "d81d889f-ea9b-4945-b764-4e7c81d14c9b",
+            "Tag": "MetalMesh24",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "ba065c9d-72c8-46a2-9f37-b6878a5687ab",
+                "NextSiblingID": "e4144f89-4ee8-41e8-b9ad-4c9267cdb874",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    137.6946563720703,
+                    2.5,
+                    227.64849853515625
+                ],
+                "Rotation": [
+                    0.0,
+                    -176.3000030517578,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    17.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -55037,6 +58285,238 @@
             }
         },
         {
+            "ID": "e4144f89-4ee8-41e8-b9ad-4c9267cdb874",
+            "Tag": "MetalMesh25",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "d81d889f-ea9b-4945-b764-4e7c81d14c9b",
+                "NextSiblingID": "4b73a95a-1a6c-4b6c-b490-968ced95044c",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    106.51260375976563,
+                    2.5,
+                    234.17471313476563
+                ],
+                "Rotation": [
+                    0.0,
+                    -159.8000030517578,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    17.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "e5ec4558-67e1-4ede-a808-789d1a58420d",
+            "Tag": "MetalMesh29",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "b7d605c0-cc7c-47df-96bb-21857eae55a4",
+                "NextSiblingID": "c7d6b97a-6cee-4bd6-ad1d-d50dfc761d6a",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -52.96118927001953,
+                    2.5,
+                    327.28729248046875
+                ],
+                "Rotation": [
+                    0.0,
+                    -176.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    30.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "e8846a4c-5a5a-44a1-924d-82c1ff7a75e4",
+            "Tag": "MetalMesh50",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "928ff418-8ac4-4f8f-8ae4-e23921b677b4",
+                "NextSiblingID": "5fe93bb1-649a-4745-9b29-5fab8ad33547",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -174.00015258789063,
+                    2.5,
+                    -182.9860382080078
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    23.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "e9cb7b35-5ad9-4cf5-8335-677fc497746b",
+            "Tag": "MetalMesh18",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "18b02953-057f-4e6d-af4a-4278c556e798",
+                "NextSiblingID": "98840e1c-41dc-4f46-a111-ee4cfc90028b",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    365.01312255859375,
+                    2.5,
+                    326.6903991699219
+                ],
+                "Rotation": [
+                    0.0,
+                    -173.10000610351563,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    43.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
+                "IsTrigger": false
+            }
+        },
+        {
             "ID": "eb9c1d3d-0da5-4b33-ae78-388aaba41737",
             "Tag": "ArmcoBarrier30",
             "Relationship": {
@@ -55149,6 +58629,64 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "ee0b9f23-f983-4e87-8189-43c08f6e80f2",
+            "Tag": "MetalMesh21",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "6fd174d1-27cc-41ea-b0b8-9d3ccebcc85e",
+                "NextSiblingID": "529212ab-065d-4d06-80d5-5885b6d1e1b1",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    225.86636352539063,
+                    2.5,
+                    260.26153564453125
+                ],
+                "Rotation": [
+                    0.0,
+                    -227.60000610351563,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    22.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
@@ -55893,6 +59431,64 @@
                 ],
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
+                "IsTrigger": false
+            }
+        },
+        {
+            "ID": "f9a548ef-0d3e-4f17-b1e8-b1a060ba0fb1",
+            "Tag": "MetalMesh55",
+            "Relationship": {
+                "ParentID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "3a993268-7cd3-4403-a844-5d78bcd37f99",
+                "NextSiblingID": "c595bd69-c107-4ddd-abb8-f47bab0d2c04",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -312.9560546875,
+                    2.5,
+                    -177.2592315673828
+                ],
+                "Rotation": [
+                    0.0,
+                    5.199999809265137,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    40.0,
+                    3.0,
+                    0.10000000149011612
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.550000011920929,
+                "Restitution": 0.029999999329447746,
                 "IsTrigger": false
             }
         },
