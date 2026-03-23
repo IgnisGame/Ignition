@@ -191,6 +191,23 @@ private:
 		SetPanelVisible(m_panel_finish, false);
 	}
 
+	void ResetCarTransform()
+	{
+		if (auto* body = CarBody())
+		{
+			body->SetLinearVelocity(glm::vec3(0.0f));
+			body->SetAngularVelocity(glm::vec3(0.0f));
+			body->SetPosition(m_car_start_pos);
+			body->SetRotation(glm::quat(glm::radians(m_car_start_rot)));
+		}
+		if (m_car.IsValid())
+		{
+			auto& tc = m_car.GetComponent<ignis::TransformComponent>();
+			tc.Translation = m_car_start_pos;
+			tc.Rotation = m_car_start_rot;
+		}
+	}
+
 	void TransitionTo(State next)
 	{
 		m_prev_state = m_state;
@@ -205,6 +222,7 @@ private:
 			break;
 
 		case State::Countdown:
+			ResetCarTransform();
 			SetPanelVisible(m_panel_hud, true);
 			m_countdown = CountdownDuration;
 			m_race_time = 0.0f;
@@ -293,21 +311,7 @@ private:
 
 	void Restart()
 	{
-		if (auto* body = CarBody())
-		{
-			body->SetLinearVelocity(glm::vec3(0.0f));
-			body->SetAngularVelocity(glm::vec3(0.0f));
-			body->SetPosition(m_car_start_pos);
-			body->SetRotation(glm::quat(glm::radians(m_car_start_rot)));
-		}
-
-		if (m_car.IsValid())
-		{
-			auto& tc = m_car.GetComponent<ignis::TransformComponent>();
-			tc.Translation = m_car_start_pos;
-			tc.Rotation = m_car_start_rot;
-		}
-
+		ResetCarTransform();
 		TransitionTo(State::Countdown);
 	}
 };
