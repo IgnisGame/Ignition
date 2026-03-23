@@ -25812,6 +25812,24 @@
                     1.0
                 ]
             },
+            "Script": {
+                "ClassName": "CheckpointTrigger",
+                "Enabled": true
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
             "BoxCollider": {
                 "HalfSize": [
                     10.0,
@@ -26735,6 +26753,24 @@
                     1.0
                 ]
             },
+            "Script": {
+                "ClassName": "CheckpointTrigger",
+                "Enabled": true
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
             "BoxCollider": {
                 "HalfSize": [
                     10.0,
@@ -27025,9 +27061,9 @@
             },
             "Transform": {
                 "Translation": [
-                    -143.4494171142578,
+                    -143.5,
                     0.33000001311302185,
-                    -334.8586120605469
+                    -337.0
                 ],
                 "Rotation": [
                     0.0,
@@ -35601,6 +35637,10 @@
                     1.0
                 ]
             },
+            "Script": {
+                "ClassName": "StartButtonHandler",
+                "Enabled": true
+            },
             "RectTransform": {
                 "AnchorMin": [
                     0.5,
@@ -35747,6 +35787,24 @@
                     1.0,
                     1.0
                 ]
+            },
+            "Script": {
+                "ClassName": "CheckpointTrigger",
+                "Enabled": true
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
             },
             "BoxCollider": {
                 "HalfSize": [
@@ -38382,6 +38440,24 @@
                     1.0
                 ]
             },
+            "Script": {
+                "ClassName": "CheckpointTrigger",
+                "Enabled": true
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
             "BoxCollider": {
                 "HalfSize": [
                     10.0,
@@ -38425,6 +38501,10 @@
                     1.0,
                     1.0
                 ]
+            },
+            "Script": {
+                "ClassName": "MainMenuButtonHandler",
+                "Enabled": true
             },
             "RectTransform": {
                 "AnchorMin": [
@@ -42245,6 +42325,39 @@
             }
         },
         {
+            "ID": "8425d146-043a-41fa-bdb8-ffc25da64cc1",
+            "Tag": "GameManager",
+            "Relationship": {
+                "ParentID": "00000000-0000-0000-0000-000000000000",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "Script": {
+                "ClassName": "GameManager",
+                "Enabled": true
+            }
+        },
+        {
             "ID": "84902848-71b8-41eb-a5f3-1ea5b6330cca",
             "Tag": "TrieBL",
             "Relationship": {
@@ -44459,6 +44572,10 @@
                     1.0
                 ]
             },
+            "Script": {
+                "ClassName": "ResumeButtonHandler",
+                "Enabled": true
+            },
             "RectTransform": {
                 "AnchorMin": [
                     0.5,
@@ -44718,6 +44835,10 @@
                     1.0,
                     1.0
                 ]
+            },
+            "Script": {
+                "ClassName": "MainMenuButtonHandler",
+                "Enabled": true
             },
             "RectTransform": {
                 "AnchorMin": [
@@ -47580,6 +47701,24 @@
                     1.0
                 ]
             },
+            "Script": {
+                "ClassName": "CheckpointTrigger",
+                "Enabled": true
+            },
+            "RigidBody": {
+                "BodyType": 0,
+                "Mass": 1.0,
+                "LinearDrag": 0.0,
+                "AngularDrag": 0.05000000074505806,
+                "UseGravity": false,
+                "IsKinematic": false,
+                "LockPositionX": false,
+                "LockPositionY": false,
+                "LockPositionZ": false,
+                "LockRotationX": false,
+                "LockRotationY": false,
+                "LockRotationZ": false
+            },
             "BoxCollider": {
                 "HalfSize": [
                     10.0,
@@ -48599,6 +48738,10 @@
                     1.0,
                     1.0
                 ]
+            },
+            "Script": {
+                "ClassName": "RestartButtonHandler",
+                "Enabled": true
             },
             "RectTransform": {
                 "AnchorMin": [
@@ -64113,7 +64256,7 @@
             "Canvas": {
                 "RenderMode": 0,
                 "SortOrder": 2,
-                "Visible": true
+                "Visible": false
             }
         },
         {
