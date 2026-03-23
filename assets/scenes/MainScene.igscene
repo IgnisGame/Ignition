@@ -29243,6 +29243,65 @@
             }
         },
         {
+            "ID": "31c439d9-4cb3-4aaf-8a0a-9ee16f299c42",
+            "Tag": "BG",
+            "Relationship": {
+                "ParentID": "e2ba1b26-3e0f-4507-bbea-ca99e360b0df",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "42263ad5-e38f-4049-8b28-073964622542",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.0,
+                    0.0
+                ],
+                "AnchorMax": [
+                    1.0,
+                    1.0
+                ],
+                "OffsetMin": [
+                    0.0,
+                    0.0
+                ],
+                "OffsetMax": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "Image": {
+                "Texture": "b49d7714-a3bb-4fda-9e8f-77a01581a4f8",
+                "Color": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "Visible": true,
+                "RaycastTarget": false,
+                "ScaleMode": 0
+            }
+        },
+        {
             "ID": "31d35c8d-85a6-4198-8aa1-11255953be0a",
             "Tag": "TrackArrows",
             "Relationship": {
@@ -35332,6 +35391,92 @@
             }
         },
         {
+            "ID": "3c08a3bc-a216-433c-b2b7-7da70ebaa1ef",
+            "Tag": "StartButton",
+            "Relationship": {
+                "ParentID": "e2ba1b26-3e0f-4507-bbea-ca99e360b0df",
+                "FirstChildID": "ce777748-2c08-4db3-b3cc-037e7213a337",
+                "LastChildID": "ce777748-2c08-4db3-b3cc-037e7213a337",
+                "PrevSiblingID": "42263ad5-e38f-4049-8b28-073964622542",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 1
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.5,
+                    0.5
+                ],
+                "AnchorMax": [
+                    0.5,
+                    0.5
+                ],
+                "OffsetMin": [
+                    -140.0,
+                    -5.0
+                ],
+                "OffsetMax": [
+                    140.0,
+                    65.0
+                ]
+            },
+            "Image": {
+                "Texture": "7a1e824d-d444-421a-bf7a-fc84d2c06005",
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Visible": true,
+                "RaycastTarget": true,
+                "ScaleMode": 0
+            },
+            "Button": {
+                "NormalColor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "HoverColor": [
+                    0.8500000238418579,
+                    0.8500000238418579,
+                    0.8500000238418579,
+                    1.0
+                ],
+                "PressedColor": [
+                    0.6499999761581421,
+                    0.6499999761581421,
+                    0.6499999761581421,
+                    1.0
+                ],
+                "DisabledColor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.5
+                ],
+                "Interactable": true
+            }
+        },
+        {
             "ID": "3d9011bb-cea1-451c-80d4-7e21fe7fe3a9",
             "Tag": "Checkpoint2",
             "Relationship": {
@@ -35605,6 +35750,67 @@
                 "Friction": 0.699999988079071,
                 "Restitution": 0.05000000074505806,
                 "IsTrigger": false
+            }
+        },
+        {
+            "ID": "42263ad5-e38f-4049-8b28-073964622542",
+            "Tag": "TitleText",
+            "Relationship": {
+                "ParentID": "e2ba1b26-3e0f-4507-bbea-ca99e360b0df",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "31c439d9-4cb3-4aaf-8a0a-9ee16f299c42",
+                "NextSiblingID": "3c08a3bc-a216-433c-b2b7-7da70ebaa1ef",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.5,
+                    0.5
+                ],
+                "AnchorMax": [
+                    0.5,
+                    0.5
+                ],
+                "OffsetMin": [
+                    -320.0,
+                    -190.0
+                ],
+                "OffsetMax": [
+                    320.0,
+                    -80.0
+                ]
+            },
+            "UIText": {
+                "Text": "IGNITION",
+                "Font": "c0fc4e6c-f978-45e5-b3de-9310dbc1560f",
+                "Color": [
+                    1.0,
+                    0.8470588326454163,
+                    0.09803921729326248,
+                    1.0
+                ],
+                "FontSize": 160.0,
+                "HAlign": 1,
+                "VAlign": 1,
+                "Visible": true
             }
         },
         {
@@ -39795,6 +40001,35 @@
                 "Friction": 0.699999988079071,
                 "Restitution": 0.05000000074505806,
                 "IsTrigger": false
+            }
+        },
+        {
+            "ID": "6b8a2115-ff5e-4643-a44e-2a639c2b858d",
+            "Tag": "UI",
+            "Relationship": {
+                "ParentID": "00000000-0000-0000-0000-000000000000",
+                "FirstChildID": "e2ba1b26-3e0f-4507-bbea-ca99e360b0df",
+                "LastChildID": "e2ba1b26-3e0f-4507-bbea-ca99e360b0df",
+                "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 1
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
             }
         },
         {
@@ -60393,6 +60628,67 @@
             }
         },
         {
+            "ID": "ce777748-2c08-4db3-b3cc-037e7213a337",
+            "Tag": "BtnText",
+            "Relationship": {
+                "ParentID": "3c08a3bc-a216-433c-b2b7-7da70ebaa1ef",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.0,
+                    0.0
+                ],
+                "AnchorMax": [
+                    1.0,
+                    1.0
+                ],
+                "OffsetMin": [
+                    0.0,
+                    -10.0
+                ],
+                "OffsetMax": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "UIText": {
+                "Text": "START",
+                "Font": "c0fc4e6c-f978-45e5-b3de-9310dbc1560f",
+                "Color": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "FontSize": 32.0,
+                "HAlign": 1,
+                "VAlign": 1,
+                "Visible": true
+            }
+        },
+        {
             "ID": "cf18e9e2-1576-43e9-8f01-479d485b61ba",
             "Tag": "Track2",
             "Relationship": {
@@ -62504,6 +62800,58 @@
                 "Friction": 0.25,
                 "Restitution": 0.15000000596046448,
                 "IsTrigger": false
+            }
+        },
+        {
+            "ID": "e2ba1b26-3e0f-4507-bbea-ca99e360b0df",
+            "Tag": "StartMenuPanel",
+            "Relationship": {
+                "ParentID": "6b8a2115-ff5e-4643-a44e-2a639c2b858d",
+                "FirstChildID": "31c439d9-4cb3-4aaf-8a0a-9ee16f299c42",
+                "LastChildID": "3c08a3bc-a216-433c-b2b7-7da70ebaa1ef",
+                "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 3
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.0,
+                    0.0
+                ],
+                "AnchorMax": [
+                    1.0,
+                    1.0
+                ],
+                "OffsetMin": [
+                    0.0,
+                    0.0
+                ],
+                "OffsetMax": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "Canvas": {
+                "RenderMode": 0,
+                "SortOrder": 2,
+                "Visible": true
             }
         },
         {

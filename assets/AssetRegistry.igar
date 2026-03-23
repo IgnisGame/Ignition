@@ -3443,6 +3443,19 @@
             }
         },
         {
+            "Handle": "c0fc4e6c-f978-45e5-b3de-9310dbc1560f",
+            "Type": 5,
+            "FilePath": "assets://fonts/Audiowide-Regular.ttf",
+            "ImportOptions": {
+                "OptionsType": "Font",
+                "Options": {
+                    "FontSize": 48.0,
+                    "AtlasWidth": 512,
+                    "AtlasHeight": 512
+                }
+            }
+        },
+        {
             "Handle": "c10eb9fd-f889-432d-ab64-ff8beeba7b01",
             "Type": 1,
             "FilePath": "assets://models/RacingTrack/Checkpoints/MI_CheckpointFlags_SM_Checkpoints_StandingFlag3_MetallicRoughness.png",
