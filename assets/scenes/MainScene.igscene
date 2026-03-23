@@ -27054,10 +27054,10 @@
             "Relationship": {
                 "ParentID": "00000000-0000-0000-0000-000000000000",
                 "FirstChildID": "d9fd8fae-c6c3-4734-93e7-16b1b0b867ba",
-                "LastChildID": "c07c7adb-811b-4da2-87d0-19ba33ed6fd7",
+                "LastChildID": "a98c9971-3fc1-4120-bf3d-068643fbe464",
                 "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
                 "NextSiblingID": "00000000-0000-0000-0000-000000000000",
-                "ChildrenCount": 3
+                "ChildrenCount": 4
             },
             "Transform": {
                 "Translation": [
@@ -47794,6 +47794,45 @@
             }
         },
         {
+            "ID": "a98c9971-3fc1-4120-bf3d-068643fbe464",
+            "Tag": "DriftSFX",
+            "Relationship": {
+                "ParentID": "1b830139-f4c4-43af-9e23-5f92d77e6faf",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "c07c7adb-811b-4da2-87d0-19ba33ed6fd7",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "AudioSource": {
+                "Clip": "ffaa0c4d-a377-434c-82d6-5c8138f6ab53",
+                "Volume": 1.0,
+                "Pitch": 1.0,
+                "Loop": true,
+                "PlayOnStart": false,
+                "Spatial": true,
+                "MinDistance": 1.0,
+                "MaxDistance": 50.0
+            }
+        },
+        {
             "ID": "aa4613bc-7d88-40a4-bc96-197eab75df67",
             "Tag": "Track62",
             "Relationship": {
@@ -49888,7 +49927,7 @@
                 "FirstChildID": "00000000-0000-0000-0000-000000000000",
                 "LastChildID": "00000000-0000-0000-0000-000000000000",
                 "PrevSiblingID": "d7ccc916-46a9-4613-a513-9655c64c3246",
-                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "a98c9971-3fc1-4120-bf3d-068643fbe464",
                 "ChildrenCount": 0
             },
             "Transform": {

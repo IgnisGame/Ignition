@@ -27,10 +27,17 @@ public:
 	float CamSmooth = 3.5f;
 
 	// Engine SFX range
-	float SfxMinVolume = 1.0f;
-	float SfxMaxVolume = 5.0f;
-	float SfxMinPitch = 0.1f;
-	float SfxMaxPitch = 1.0f;
+	float EngineSfxMinVolume = 1.0f;
+	float EngineSfxMaxVolume = 10.0f;
+	float EngineSfxMinPitch = 0.1f;
+	float EngineSfxMaxPitch = 1.0f;
+
+	float DriftSfxThreshold = 1.5f;
+	float DriftSfxLatSpeedMax = 18.0f;
+	float DriftSfxMinVolume = 1.0f;
+	float DriftSfxMaxVolume = 7.0f;
+	float DriftSfxMinPitch = 0.7f;
+	float DriftSfxMaxPitch = 1.0f;
 
 private:
 	ignis::Entity m_cam_entity;
@@ -38,8 +45,11 @@ private:
 	float         m_cam_base_x = 0.0f;
 	float         m_cam_offset = 0.0f;
 
-	ignis::UUID   m_sfx_id = ignis::UUID::Invalid;
-	bool          m_has_sfx = false;
+	ignis::UUID   m_engine_sfx_id = ignis::UUID::Invalid;
+	bool          m_has_engine_sfx = false;
+
+	ignis::UUID   m_drift_sfx_id = ignis::UUID::Invalid;
+	bool          m_has_drift_sfx = false;
 
 	ignis::PhysicsBody* GetBody()
 	{
@@ -63,18 +73,24 @@ public:
 						.Translation.x;
 				}
 
-				if (!m_has_sfx && tag == "EngineSFX")
+				if (!m_has_engine_sfx && tag == "EngineSFX")
 				{
-					m_sfx_id = child.GetID();
-					m_has_sfx = true;
+					m_engine_sfx_id = child.GetID();
+					m_has_engine_sfx = true;
+				}
+
+				if (!m_has_drift_sfx && tag == "DriftSFX")
+				{
+					m_drift_sfx_id = child.GetID();
+					m_has_drift_sfx = true;
 				}
 			});
 
-		if (m_has_sfx)
+		if (m_has_engine_sfx)
 		{
 			auto* audio = GetScene()->GetAudioSystem();
-			audio->SetVolume(m_sfx_id, SfxMinVolume);
-			audio->SetPitch(m_sfx_id, SfxMinPitch);
+			audio->SetVolume(m_engine_sfx_id, EngineSfxMinVolume);
+			audio->SetPitch(m_engine_sfx_id, EngineSfxMinPitch);
 		}
 	}
 
@@ -92,7 +108,10 @@ public:
 			body->SetAngularVelocity(body->GetAngularVelocity() * k);
 
 			auto* audio = GetScene()->GetAudioSystem();
-			if (audio->IsPlaying(m_sfx_id)) audio->Stop(m_sfx_id);
+			if (m_has_engine_sfx && audio->IsPlaying(m_engine_sfx_id))
+				audio->Stop(m_engine_sfx_id);
+			if (m_has_drift_sfx && audio->IsPlaying(m_drift_sfx_id))
+				audio->Stop(m_drift_sfx_id);
 			return;
 		}
 
@@ -176,23 +195,51 @@ public:
 			camTc.Translation.x = m_cam_base_x + m_cam_offset;
 		}
 
+		auto* audio = GetScene()->GetAudioSystem();
+
 		// 6. Engine SFX 
 		{
 			float t = glm::clamp(speed / MaxSpeed, 0.0f, 1.0f);
-			float volume = glm::mix(SfxMinVolume, SfxMaxVolume, t);
-			float pitch = glm::mix(SfxMinPitch, SfxMaxPitch, t);
+			float volume = glm::mix(EngineSfxMinVolume, EngineSfxMaxVolume, t);
+			float pitch = glm::mix(EngineSfxMinPitch, EngineSfxMaxPitch, t);
 
-			auto* audio = GetScene()->GetAudioSystem();
-			audio->SetVolume(m_sfx_id, volume);
-			audio->SetPitch(m_sfx_id, pitch);
+			audio->SetVolume(m_engine_sfx_id, volume);
+			audio->SetPitch(m_engine_sfx_id, pitch);
 
 			if (t > 0.01)
 			{
-				if (!audio->IsPlaying(m_sfx_id)) audio->Play(m_sfx_id);
+				if (!audio->IsPlaying(m_engine_sfx_id)) audio->Play(m_engine_sfx_id);
 			}
 			else
 			{
-				if (audio->IsPlaying(m_sfx_id)) audio->Stop(m_sfx_id);
+				if (audio->IsPlaying(m_engine_sfx_id)) audio->Stop(m_engine_sfx_id);
+			}
+		}
+
+		// 7. Drift SFX
+		if (m_has_drift_sfx)
+		{
+			float latSpeed = glm::length(latVel);
+
+			if (latSpeed > DriftSfxThreshold)
+			{
+				float t = glm::clamp(
+					(latSpeed - DriftSfxThreshold) /
+					(DriftSfxLatSpeedMax - DriftSfxThreshold),
+					0.0f, 1.0f);
+
+				audio->SetVolume(m_drift_sfx_id,
+					glm::mix(DriftSfxMinVolume, DriftSfxMaxVolume, t));
+				audio->SetPitch(m_drift_sfx_id,
+					glm::mix(DriftSfxMinPitch, DriftSfxMaxPitch, t));
+
+				if (!audio->IsPlaying(m_drift_sfx_id))
+					audio->Play(m_drift_sfx_id);
+			}
+			else
+			{
+				if (audio->IsPlaying(m_drift_sfx_id))
+					audio->Stop(m_drift_sfx_id);
 			}
 		}
 	}

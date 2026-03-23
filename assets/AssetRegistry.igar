@@ -4794,6 +4794,17 @@
                     "MagFilter": 1
                 }
             }
+        },
+        {
+            "Handle": "ffaa0c4d-a377-434c-82d6-5c8138f6ab53",
+            "Type": 6,
+            "FilePath": "assets://audio/SM_SuperCar/A_Burnout.WAV",
+            "ImportOptions": {
+                "OptionsType": "Audio",
+                "Options": {
+                    "Stream": false
+                }
+            }
         }
     ]
 }
