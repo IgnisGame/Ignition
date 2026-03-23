@@ -27054,10 +27054,10 @@
             "Relationship": {
                 "ParentID": "00000000-0000-0000-0000-000000000000",
                 "FirstChildID": "d9fd8fae-c6c3-4734-93e7-16b1b0b867ba",
-                "LastChildID": "d7ccc916-46a9-4613-a513-9655c64c3246",
+                "LastChildID": "c07c7adb-811b-4da2-87d0-19ba33ed6fd7",
                 "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
                 "NextSiblingID": "00000000-0000-0000-0000-000000000000",
-                "ChildrenCount": 2
+                "ChildrenCount": 3
             },
             "Transform": {
                 "Translation": [
@@ -49881,6 +49881,45 @@
             }
         },
         {
+            "ID": "c07c7adb-811b-4da2-87d0-19ba33ed6fd7",
+            "Tag": "EngineSFX",
+            "Relationship": {
+                "ParentID": "1b830139-f4c4-43af-9e23-5f92d77e6faf",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "d7ccc916-46a9-4613-a513-9655c64c3246",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "AudioSource": {
+                "Clip": "7b22e3b8-667a-4acb-a2d6-75a18c1b5aaf",
+                "Volume": 1.0,
+                "Pitch": 1.0,
+                "Loop": true,
+                "PlayOnStart": false,
+                "Spatial": true,
+                "MinDistance": 1.0,
+                "MaxDistance": 50.0
+            }
+        },
+        {
             "ID": "c09c9ebd-8753-44a8-b1e0-416843787a69",
             "Tag": "MetalMesh16",
             "Relationship": {
@@ -62739,7 +62778,7 @@
                 "FirstChildID": "e26c50d1-88ab-464a-8cda-fd2188ba1fc8",
                 "LastChildID": "304e684b-6fae-4071-aa34-88de049432bd",
                 "PrevSiblingID": "d9fd8fae-c6c3-4734-93e7-16b1b0b867ba",
-                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "c07c7adb-811b-4da2-87d0-19ba33ed6fd7",
                 "ChildrenCount": 15
             },
             "Transform": {
@@ -62973,6 +63012,9 @@
                 "OrthographicSize": 10.0,
                 "OrthographicNear": -1.0,
                 "OrthographicFar": 1.0
+            },
+            "AudioListener": {
+                "Primary": true
             }
         },
         {

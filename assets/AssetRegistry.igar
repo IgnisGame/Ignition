@@ -2234,6 +2234,17 @@
             }
         },
         {
+            "Handle": "7b22e3b8-667a-4acb-a2d6-75a18c1b5aaf",
+            "Type": 6,
+            "FilePath": "assets://audio/SM_SuperCar/A_High_Rev.WAV",
+            "ImportOptions": {
+                "OptionsType": "Audio",
+                "Options": {
+                    "Stream": false
+                }
+            }
+        },
+        {
             "Handle": "7c6dfb14-7f3a-457e-807b-95fa799fc486",
             "Type": 1,
             "FilePath": "assets://models/RacingTrack/BillBoards/MI_TrackBilboarsConstruction_Normal.png",

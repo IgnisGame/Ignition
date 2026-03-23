@@ -26,11 +26,20 @@ public:
 	float CamBrakePush = 1.5f;
 	float CamSmooth = 3.5f;
 
+	// Engine SFX range
+	float SfxMinVolume = 1.0f;
+	float SfxMaxVolume = 5.0f;
+	float SfxMinPitch = 0.1f;
+	float SfxMaxPitch = 1.0f;
+
 private:
 	ignis::Entity m_cam_entity;
 	bool          m_has_cam = false;
 	float         m_cam_base_x = 0.0f;
 	float         m_cam_offset = 0.0f;
+
+	ignis::UUID   m_sfx_id = ignis::UUID::Invalid;
+	bool          m_has_sfx = false;
 
 	ignis::PhysicsBody* GetBody()
 	{
@@ -44,15 +53,29 @@ public:
 	{
 		GetEntity().ForEachChild([&](ignis::Entity child)
 			{
-				if (m_has_cam) return;
-				if (child.GetComponent<ignis::TagComponent>().Tag == "Camera")
+				const auto& tag = child.GetComponent<ignis::TagComponent>().Tag;
+
+				if (!m_has_cam && tag == "Camera")
 				{
 					m_cam_entity = child;
 					m_has_cam = true;
 					m_cam_base_x = child.GetComponent<ignis::TransformComponent>()
 						.Translation.x;
 				}
+
+				if (!m_has_sfx && tag == "EngineSFX")
+				{
+					m_sfx_id = child.GetID();
+					m_has_sfx = true;
+				}
 			});
+
+		if (m_has_sfx)
+		{
+			auto* audio = GetScene()->GetAudioSystem();
+			audio->SetVolume(m_sfx_id, SfxMinVolume);
+			audio->SetPitch(m_sfx_id, SfxMinPitch);
+		}
 	}
 
 	void OnUpdate(float dt) override
@@ -67,6 +90,9 @@ public:
 			float k = glm::max(0.0f, 1.0f - dt * 10.0f);
 			body->SetLinearVelocity(body->GetLinearVelocity() * k);
 			body->SetAngularVelocity(body->GetAngularVelocity() * k);
+
+			auto* audio = GetScene()->GetAudioSystem();
+			if (audio->IsPlaying(m_sfx_id)) audio->Stop(m_sfx_id);
 			return;
 		}
 
@@ -148,6 +174,26 @@ public:
 
 			auto& camTc = m_cam_entity.GetComponent<ignis::TransformComponent>();
 			camTc.Translation.x = m_cam_base_x + m_cam_offset;
+		}
+
+		// 6. Engine SFX 
+		{
+			float t = glm::clamp(speed / MaxSpeed, 0.0f, 1.0f);
+			float volume = glm::mix(SfxMinVolume, SfxMaxVolume, t);
+			float pitch = glm::mix(SfxMinPitch, SfxMaxPitch, t);
+
+			auto* audio = GetScene()->GetAudioSystem();
+			audio->SetVolume(m_sfx_id, volume);
+			audio->SetPitch(m_sfx_id, pitch);
+
+			if (t > 0.01)
+			{
+				if (!audio->IsPlaying(m_sfx_id)) audio->Play(m_sfx_id);
+			}
+			else
+			{
+				if (audio->IsPlaying(m_sfx_id)) audio->Stop(m_sfx_id);
+			}
 		}
 	}
 };
