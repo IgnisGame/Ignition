@@ -25724,6 +25724,50 @@
             }
         },
         {
+            "ID": "082f387a-161f-4da6-ac0a-ce042ed97fc2",
+            "Tag": "Checkpoint4",
+            "Relationship": {
+                "ParentID": "32d8e6f9-1506-43db-88d3-4b0dc8565b83",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "1798e05f-f19a-47c3-8bce-352cfc8ce5e1",
+                "NextSiblingID": "a92e04ba-305b-4f9e-926f-456cd4529481",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -434.179443359375,
+                    2.5,
+                    -267.1105651855469
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    3.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.5,
+                "Restitution": 0.30000001192092896,
+                "IsTrigger": true
+            }
+        },
+        {
             "ID": "0985635f-d7c8-45f1-8b83-e83c95860886",
             "Tag": "RoadDamages",
             "Relationship": {
@@ -26043,10 +26087,10 @@
             "Relationship": {
                 "ParentID": "00000000-0000-0000-0000-000000000000",
                 "FirstChildID": "b0d2e899-ab16-416c-9f4a-9f50d52ad8cf",
-                "LastChildID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "LastChildID": "32d8e6f9-1506-43db-88d3-4b0dc8565b83",
                 "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
                 "NextSiblingID": "00000000-0000-0000-0000-000000000000",
-                "ChildrenCount": 2
+                "ChildrenCount": 3
             },
             "Transform": {
                 "Translation": [
@@ -26542,6 +26586,50 @@
             }
         },
         {
+            "ID": "1798e05f-f19a-47c3-8bce-352cfc8ce5e1",
+            "Tag": "Checkpoint3",
+            "Relationship": {
+                "ParentID": "32d8e6f9-1506-43db-88d3-4b0dc8565b83",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "3d9011bb-cea1-451c-80d4-7e21fe7fe3a9",
+                "NextSiblingID": "082f387a-161f-4da6-ac0a-ce042ed97fc2",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -363.0153503417969,
+                    2.5,
+                    -3.8039908409118652
+                ],
+                "Rotation": [
+                    0.0,
+                    3.0999999046325684,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    3.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.5,
+                "Restitution": 0.30000001192092896,
+                "IsTrigger": true
+            }
+        },
+        {
             "ID": "17f06f65-a9a8-44d2-bea8-5678f27d3503",
             "Tag": "SoundWall11",
             "Relationship": {
@@ -26723,7 +26811,7 @@
                 "FirstChildID": "619a20c9-e370-408a-a2a7-8fcd80a29d81",
                 "LastChildID": "14f12da9-6f1b-4bd9-bf0f-c560259da477",
                 "PrevSiblingID": "b0d2e899-ab16-416c-9f4a-9f50d52ad8cf",
-                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "32d8e6f9-1506-43db-88d3-4b0dc8565b83",
                 "ChildrenCount": 145
             },
             "Transform": {
@@ -29582,6 +29670,35 @@
                 "Friction": 0.25,
                 "Restitution": 0.15000000596046448,
                 "IsTrigger": false
+            }
+        },
+        {
+            "ID": "32d8e6f9-1506-43db-88d3-4b0dc8565b83",
+            "Tag": "Checkpoints",
+            "Relationship": {
+                "ParentID": "09b116af-6aba-4b0a-a4d3-8ce379b43804",
+                "FirstChildID": "54839c25-c6ca-48a1-833a-26174261b1ad",
+                "LastChildID": "a92e04ba-305b-4f9e-926f-456cd4529481",
+                "PrevSiblingID": "1955e136-eb59-44fd-89ce-730848dec20e",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 5
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
             }
         },
         {
@@ -35215,6 +35332,50 @@
             }
         },
         {
+            "ID": "3d9011bb-cea1-451c-80d4-7e21fe7fe3a9",
+            "Tag": "Checkpoint2",
+            "Relationship": {
+                "ParentID": "32d8e6f9-1506-43db-88d3-4b0dc8565b83",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "54839c25-c6ca-48a1-833a-26174261b1ad",
+                "NextSiblingID": "1798e05f-f19a-47c3-8bce-352cfc8ce5e1",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -27.657533645629883,
+                    2.5,
+                    308.69293212890625
+                ],
+                "Rotation": [
+                    0.0,
+                    -75.69999694824219,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    3.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.5,
+                "Restitution": 0.30000001192092896,
+                "IsTrigger": true
+            }
+        },
+        {
             "ID": "3de8618d-93e0-4b4b-8286-93c3ef1e08f9",
             "Tag": "MetalMesh42",
             "Relationship": {
@@ -37628,6 +37789,50 @@
                 "Friction": 0.25,
                 "Restitution": 0.15000000596046448,
                 "IsTrigger": false
+            }
+        },
+        {
+            "ID": "54839c25-c6ca-48a1-833a-26174261b1ad",
+            "Tag": "Checkpoint1",
+            "Relationship": {
+                "ParentID": "32d8e6f9-1506-43db-88d3-4b0dc8565b83",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "3d9011bb-cea1-451c-80d4-7e21fe7fe3a9",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    278.0071105957031,
+                    2.5,
+                    -45.4808349609375
+                ],
+                "Rotation": [
+                    0.0,
+                    1.899999976158142,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    3.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.5,
+                "Restitution": 0.30000001192092896,
+                "IsTrigger": true
             }
         },
         {
@@ -46108,6 +46313,50 @@
                 "Friction": 0.699999988079071,
                 "Restitution": 0.05000000074505806,
                 "IsTrigger": false
+            }
+        },
+        {
+            "ID": "a92e04ba-305b-4f9e-926f-456cd4529481",
+            "Tag": "Finish",
+            "Relationship": {
+                "ParentID": "32d8e6f9-1506-43db-88d3-4b0dc8565b83",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "082f387a-161f-4da6-ac0a-ce042ed97fc2",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    -255.75466918945313,
+                    2.5,
+                    -337.6940002441406
+                ],
+                "Rotation": [
+                    0.0,
+                    90.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "BoxCollider": {
+                "HalfSize": [
+                    10.0,
+                    3.0,
+                    0.5
+                ],
+                "Offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Friction": 0.5,
+                "Restitution": 0.30000001192092896,
+                "IsTrigger": true
             }
         },
         {
