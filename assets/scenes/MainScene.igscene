@@ -37144,6 +37144,67 @@
             }
         },
         {
+            "ID": "4e509f22-5543-4be5-9534-1a86acac9cbd",
+            "Tag": "BtnText",
+            "Relationship": {
+                "ParentID": "5611df8a-b640-4224-a0ff-dac49660fff6",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.0,
+                    0.0
+                ],
+                "AnchorMax": [
+                    1.0,
+                    1.0
+                ],
+                "OffsetMin": [
+                    0.0,
+                    0.0
+                ],
+                "OffsetMax": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "UIText": {
+                "Text": "MAIN MENU",
+                "Font": "c0fc4e6c-f978-45e5-b3de-9310dbc1560f",
+                "Color": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "FontSize": 32.0,
+                "HAlign": 1,
+                "VAlign": 1,
+                "Visible": true
+            }
+        },
+        {
             "ID": "4f45c089-c5af-4fee-8bc8-5a5c9a70a17a",
             "Tag": "ArmcoBarrier15",
             "Relationship": {
@@ -38213,6 +38274,92 @@
                 "Friction": 0.5,
                 "Restitution": 0.30000001192092896,
                 "IsTrigger": true
+            }
+        },
+        {
+            "ID": "5611df8a-b640-4224-a0ff-dac49660fff6",
+            "Tag": "MenuButton",
+            "Relationship": {
+                "ParentID": "67e5746d-285c-49df-8fa7-3d905fac3121",
+                "FirstChildID": "4e509f22-5543-4be5-9534-1a86acac9cbd",
+                "LastChildID": "4e509f22-5543-4be5-9534-1a86acac9cbd",
+                "PrevSiblingID": "9430ef96-cb35-4ced-a6e2-409f973e5aef",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 1
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.5,
+                    0.5
+                ],
+                "AnchorMax": [
+                    0.5,
+                    0.5
+                ],
+                "OffsetMin": [
+                    -140.0,
+                    50.0
+                ],
+                "OffsetMax": [
+                    140.0,
+                    130.0
+                ]
+            },
+            "Image": {
+                "Texture": "e7d11cf3-c684-4977-a7e3-855dca129df9",
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Visible": true,
+                "RaycastTarget": true,
+                "ScaleMode": 0
+            },
+            "Button": {
+                "NormalColor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "HoverColor": [
+                    0.8500000238418579,
+                    0.8500000238418579,
+                    0.8500000238418579,
+                    1.0
+                ],
+                "PressedColor": [
+                    0.6499999761581421,
+                    0.6499999761581421,
+                    0.6499999761581421,
+                    1.0
+                ],
+                "DisabledColor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.5
+                ],
+                "Interactable": true
             }
         },
         {
@@ -39834,11 +39981,11 @@
             "Tag": "PausePanel",
             "Relationship": {
                 "ParentID": "6b8a2115-ff5e-4643-a44e-2a639c2b858d",
-                "FirstChildID": "00000000-0000-0000-0000-000000000000",
-                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "FirstChildID": "b3f60879-0435-4c61-8314-1cf0aa186126",
+                "LastChildID": "5611df8a-b640-4224-a0ff-dac49660fff6",
                 "PrevSiblingID": "5306d094-e578-4df1-b86e-56f78dbb54a7",
                 "NextSiblingID": "cda23696-10c1-498c-a032-c3a22b148b8f",
-                "ChildrenCount": 0
+                "ChildrenCount": 3
             },
             "Transform": {
                 "Translation": [
@@ -39856,6 +40003,29 @@
                     1.0,
                     1.0
                 ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.0,
+                    0.0
+                ],
+                "AnchorMax": [
+                    1.0,
+                    1.0
+                ],
+                "OffsetMin": [
+                    0.0,
+                    0.0
+                ],
+                "OffsetMax": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "Canvas": {
+                "RenderMode": 0,
+                "SortOrder": 3,
+                "Visible": false
             }
         },
         {
@@ -43900,6 +44070,92 @@
             }
         },
         {
+            "ID": "9430ef96-cb35-4ced-a6e2-409f973e5aef",
+            "Tag": "ResumeButton",
+            "Relationship": {
+                "ParentID": "67e5746d-285c-49df-8fa7-3d905fac3121",
+                "FirstChildID": "aeee8bf7-8d06-4e8a-8ef9-7fe3c3ce87f5",
+                "LastChildID": "aeee8bf7-8d06-4e8a-8ef9-7fe3c3ce87f5",
+                "PrevSiblingID": "b3f60879-0435-4c61-8314-1cf0aa186126",
+                "NextSiblingID": "5611df8a-b640-4224-a0ff-dac49660fff6",
+                "ChildrenCount": 1
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.5,
+                    0.5
+                ],
+                "AnchorMax": [
+                    0.5,
+                    0.5
+                ],
+                "OffsetMin": [
+                    -140.0,
+                    -50.0
+                ],
+                "OffsetMax": [
+                    140.0,
+                    30.0
+                ]
+            },
+            "Image": {
+                "Texture": "c9a01d73-9cb2-4c1e-8efd-2e7c1865b3fd",
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "Visible": true,
+                "RaycastTarget": true,
+                "ScaleMode": 0
+            },
+            "Button": {
+                "NormalColor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "HoverColor": [
+                    0.8500000238418579,
+                    0.8500000238418579,
+                    0.8500000238418579,
+                    1.0
+                ],
+                "PressedColor": [
+                    0.6499999761581421,
+                    0.6499999761581421,
+                    0.6499999761581421,
+                    1.0
+                ],
+                "DisabledColor": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.5
+                ],
+                "Interactable": true
+            }
+        },
+        {
             "ID": "944b3d6d-3091-4e1d-8fbf-cb3fb7d94e5d",
             "Tag": "Track48",
             "Relationship": {
@@ -47896,6 +48152,67 @@
             }
         },
         {
+            "ID": "aeee8bf7-8d06-4e8a-8ef9-7fe3c3ce87f5",
+            "Tag": "BtnText",
+            "Relationship": {
+                "ParentID": "9430ef96-cb35-4ced-a6e2-409f973e5aef",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.0,
+                    0.0
+                ],
+                "AnchorMax": [
+                    1.0,
+                    1.0
+                ],
+                "OffsetMin": [
+                    0.0,
+                    0.0
+                ],
+                "OffsetMax": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "UIText": {
+                "Text": "RESUME",
+                "Font": "c0fc4e6c-f978-45e5-b3de-9310dbc1560f",
+                "Color": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "FontSize": 32.0,
+                "HAlign": 1,
+                "VAlign": 1,
+                "Visible": true
+            }
+        },
+        {
             "ID": "afacb3c9-99d4-474f-9d14-0f57ae8e4045",
             "Tag": "MetalMesh61",
             "Relationship": {
@@ -48154,6 +48471,67 @@
                 "Friction": 0.699999988079071,
                 "Restitution": 0.05000000074505806,
                 "IsTrigger": false
+            }
+        },
+        {
+            "ID": "b3f60879-0435-4c61-8314-1cf0aa186126",
+            "Tag": "PauseTitle",
+            "Relationship": {
+                "ParentID": "67e5746d-285c-49df-8fa7-3d905fac3121",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "9430ef96-cb35-4ced-a6e2-409f973e5aef",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.5,
+                    0.5
+                ],
+                "AnchorMax": [
+                    0.5,
+                    0.5
+                ],
+                "OffsetMin": [
+                    -200.0,
+                    -175.0
+                ],
+                "OffsetMax": [
+                    200.0,
+                    -90.0
+                ]
+            },
+            "UIText": {
+                "Text": "PAUSED",
+                "Font": "c0fc4e6c-f978-45e5-b3de-9310dbc1560f",
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "FontSize": 86.0,
+                "HAlign": 1,
+                "VAlign": 1,
+                "Visible": true
             }
         },
         {
