@@ -26441,6 +26441,67 @@
             }
         },
         {
+            "ID": "12f127b3-8b49-4451-a36b-d36708c2635c",
+            "Tag": "TimerText",
+            "Relationship": {
+                "ParentID": "5306d094-e578-4df1-b86e-56f78dbb54a7",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "8c2ec4b9-ee9d-4a4d-a45b-56d15106f059",
+                "NextSiblingID": "3bb7c09c-adf3-4731-a865-10b1afa5a6de",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    1.0,
+                    0.0
+                ],
+                "AnchorMax": [
+                    1.0,
+                    0.0
+                ],
+                "OffsetMin": [
+                    -240.0,
+                    10.0
+                ],
+                "OffsetMax": [
+                    -10.0,
+                    60.0
+                ]
+            },
+            "UIText": {
+                "Text": "00:00.00",
+                "Font": "c0fc4e6c-f978-45e5-b3de-9310dbc1560f",
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "FontSize": 40.0,
+                "HAlign": 2,
+                "VAlign": 1,
+                "Visible": true
+            }
+        },
+        {
             "ID": "12fcc690-f79a-4454-991e-600e0e9b05a7",
             "Tag": "Track35",
             "Relationship": {
@@ -31437,6 +31498,67 @@
             }
         },
         {
+            "ID": "3bb7c09c-adf3-4731-a865-10b1afa5a6de",
+            "Tag": "CheckpointText",
+            "Relationship": {
+                "ParentID": "5306d094-e578-4df1-b86e-56f78dbb54a7",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "12f127b3-8b49-4451-a36b-d36708c2635c",
+                "NextSiblingID": "7a7a9cd2-a877-4ccd-bd9b-fdf8254644f4",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.0,
+                    0.0
+                ],
+                "AnchorMax": [
+                    0.0,
+                    0.0
+                ],
+                "OffsetMin": [
+                    10.0,
+                    10.0
+                ],
+                "OffsetMax": [
+                    280.0,
+                    60.0
+                ]
+            },
+            "UIText": {
+                "Text": "CP  0 / 4",
+                "Font": "c0fc4e6c-f978-45e5-b3de-9310dbc1560f",
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "FontSize": 30.0,
+                "HAlign": 0,
+                "VAlign": 1,
+                "Visible": true
+            }
+        },
+        {
             "ID": "3c04f721-971e-4b56-b492-bb30f8944f80",
             "Tag": "Banners",
             "Relationship": {
@@ -35429,11 +35551,11 @@
                 ],
                 "OffsetMin": [
                     -140.0,
-                    -5.0
+                    -80.0
                 ],
                 "OffsetMax": [
                     140.0,
-                    65.0
+                    0.0
                 ]
             },
             "Image": {
@@ -35791,11 +35913,11 @@
                 ],
                 "OffsetMin": [
                     -320.0,
-                    -190.0
+                    -280.0
                 ],
                 "OffsetMax": [
                     320.0,
-                    -80.0
+                    -160.0
                 ]
             },
             "UIText": {
@@ -37940,6 +38062,58 @@
             }
         },
         {
+            "ID": "5306d094-e578-4df1-b86e-56f78dbb54a7",
+            "Tag": "HUDPanel",
+            "Relationship": {
+                "ParentID": "6b8a2115-ff5e-4643-a44e-2a639c2b858d",
+                "FirstChildID": "8c2ec4b9-ee9d-4a4d-a45b-56d15106f059",
+                "LastChildID": "7a7a9cd2-a877-4ccd-bd9b-fdf8254644f4",
+                "PrevSiblingID": "e2ba1b26-3e0f-4507-bbea-ca99e360b0df",
+                "NextSiblingID": "67e5746d-285c-49df-8fa7-3d905fac3121",
+                "ChildrenCount": 4
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.0,
+                    0.0
+                ],
+                "AnchorMax": [
+                    1.0,
+                    1.0
+                ],
+                "OffsetMin": [
+                    0.0,
+                    0.0
+                ],
+                "OffsetMax": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "Canvas": {
+                "RenderMode": 0,
+                "SortOrder": 1,
+                "Visible": false
+            }
+        },
+        {
             "ID": "534831b7-06cf-41d5-a58f-419a1181970e",
             "Tag": "SoundWall5",
             "Relationship": {
@@ -39656,6 +39830,35 @@
             }
         },
         {
+            "ID": "67e5746d-285c-49df-8fa7-3d905fac3121",
+            "Tag": "PausePanel",
+            "Relationship": {
+                "ParentID": "6b8a2115-ff5e-4643-a44e-2a639c2b858d",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "5306d094-e578-4df1-b86e-56f78dbb54a7",
+                "NextSiblingID": "cda23696-10c1-498c-a032-c3a22b148b8f",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        },
+        {
             "ID": "68be868e-fbf3-4c1e-aea0-36c28f20c267",
             "Tag": "ArmcoBarrier31",
             "Relationship": {
@@ -40009,10 +40212,10 @@
             "Relationship": {
                 "ParentID": "00000000-0000-0000-0000-000000000000",
                 "FirstChildID": "e2ba1b26-3e0f-4507-bbea-ca99e360b0df",
-                "LastChildID": "e2ba1b26-3e0f-4507-bbea-ca99e360b0df",
+                "LastChildID": "cda23696-10c1-498c-a032-c3a22b148b8f",
                 "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
                 "NextSiblingID": "00000000-0000-0000-0000-000000000000",
-                "ChildrenCount": 1
+                "ChildrenCount": 4
             },
             "Transform": {
                 "Translation": [
@@ -40808,6 +41011,67 @@
                         "DoubleSided": false
                     }
                 ]
+            }
+        },
+        {
+            "ID": "7a7a9cd2-a877-4ccd-bd9b-fdf8254644f4",
+            "Tag": "SpeedText",
+            "Relationship": {
+                "ParentID": "5306d094-e578-4df1-b86e-56f78dbb54a7",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "3bb7c09c-adf3-4731-a865-10b1afa5a6de",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.5,
+                    1.0
+                ],
+                "AnchorMax": [
+                    0.5,
+                    1.0
+                ],
+                "OffsetMin": [
+                    -90.0,
+                    -105.0
+                ],
+                "OffsetMax": [
+                    90.0,
+                    -70.0
+                ]
+            },
+            "UIText": {
+                "Text": "0 km/h",
+                "Font": "c0fc4e6c-f978-45e5-b3de-9310dbc1560f",
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "FontSize": 26.0,
+                "HAlign": 1,
+                "VAlign": 1,
+                "Visible": true
             }
         },
         {
@@ -42620,6 +42884,67 @@
                 "Friction": 0.20000000298023224,
                 "Restitution": 0.07999999821186066,
                 "IsTrigger": false
+            }
+        },
+        {
+            "ID": "8c2ec4b9-ee9d-4a4d-a45b-56d15106f059",
+            "Tag": "CountdownText",
+            "Relationship": {
+                "ParentID": "5306d094-e578-4df1-b86e-56f78dbb54a7",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "12f127b3-8b49-4451-a36b-d36708c2635c",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "RectTransform": {
+                "AnchorMin": [
+                    0.5,
+                    0.5
+                ],
+                "AnchorMax": [
+                    0.5,
+                    0.5
+                ],
+                "OffsetMin": [
+                    -180.0,
+                    -200.0
+                ],
+                "OffsetMax": [
+                    180.0,
+                    120.0
+                ]
+            },
+            "UIText": {
+                "Text": "3",
+                "Font": "c0fc4e6c-f978-45e5-b3de-9310dbc1560f",
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "FontSize": 320.0,
+                "HAlign": 1,
+                "VAlign": 1,
+                "Visible": true
             }
         },
         {
@@ -60628,6 +60953,35 @@
             }
         },
         {
+            "ID": "cda23696-10c1-498c-a032-c3a22b148b8f",
+            "Tag": "FinishPanel",
+            "Relationship": {
+                "ParentID": "6b8a2115-ff5e-4643-a44e-2a639c2b858d",
+                "FirstChildID": "00000000-0000-0000-0000-000000000000",
+                "LastChildID": "00000000-0000-0000-0000-000000000000",
+                "PrevSiblingID": "67e5746d-285c-49df-8fa7-3d905fac3121",
+                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "ChildrenCount": 0
+            },
+            "Transform": {
+                "Translation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Rotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Scale": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        },
+        {
             "ID": "ce777748-2c08-4db3-b3cc-037e7213a337",
             "Tag": "BtnText",
             "Relationship": {
@@ -60666,7 +61020,7 @@
                 ],
                 "OffsetMin": [
                     0.0,
-                    -10.0
+                    0.0
                 ],
                 "OffsetMax": [
                     0.0,
@@ -62810,7 +63164,7 @@
                 "FirstChildID": "31c439d9-4cb3-4aaf-8a0a-9ee16f299c42",
                 "LastChildID": "3c08a3bc-a216-433c-b2b7-7da70ebaa1ef",
                 "PrevSiblingID": "00000000-0000-0000-0000-000000000000",
-                "NextSiblingID": "00000000-0000-0000-0000-000000000000",
+                "NextSiblingID": "5306d094-e578-4df1-b86e-56f78dbb54a7",
                 "ChildrenCount": 3
             },
             "Transform": {
