@@ -63046,7 +63046,7 @@
             },
             "Camera": {
                 "Primary": true,
-                "FixedAspectRatio": true,
+                "FixedAspectRatio": false,
                 "ProjectionType": 0,
                 "AspectRatio": 1.7777777910232544,
                 "PerspectiveFOV": 45.0,
