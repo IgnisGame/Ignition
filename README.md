@@ -2,6 +2,8 @@
 
 A racing car game project built with the Ignis Game Engine, demonstrating the engine's capabilities including 3D rendering, physics, audio, and scripting.
 
+- **Car Control:** WASD to move, R to reset car's position, ESC to pause menu
+
 Please check out the main Ignis engine repository for more details: https://github.com/JamesLiu12/Ignis
 
 Note: we have removed some model files in the assets folder as they are copyright protected. You may find them in release, but they are password protected for internal use.
