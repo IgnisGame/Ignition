@@ -26,6 +26,9 @@ public:
 	float CamBrakePush = 1.5f;
 	float CamSmooth = 3.5f;
 
+	// Reset position
+	glm::vec3 ResetPosition = glm::vec3(-143.5f, 0.330f, -337.0f);
+
 	// Engine SFX range
 	float EngineSfxMinVolume = 1.0f;
 	float EngineSfxMaxVolume = 10.0f;
@@ -44,6 +47,8 @@ private:
 	bool          m_has_cam = false;
 	float         m_cam_base_x = 0.0f;
 	float         m_cam_offset = 0.0f;
+
+	bool          m_r_was_pressed = false;
 
 	ignis::UUID   m_engine_sfx_id = ignis::UUID::Invalid;
 	bool          m_has_engine_sfx = false;
@@ -120,6 +125,17 @@ public:
 		const bool kA = Input::IsKeyPressed(KeyCode::A);
 		const bool kD = Input::IsKeyPressed(KeyCode::D);
 		const bool kSpace = Input::IsKeyPressed(KeyCode::Space);
+		const bool kR = Input::IsKeyPressed(KeyCode::R);
+
+		// Reset car position on R key press
+		if (kR && !m_r_was_pressed)
+		{
+			body->SetPosition(ResetPosition);
+			body->SetRotation(glm::quat(glm::vec3(0.0f)));
+			body->SetLinearVelocity(glm::vec3(0.0f));
+			body->SetAngularVelocity(glm::vec3(0.0f));
+		}
+		m_r_was_pressed = kR;
 
 		auto& tc = GetEntity().GetComponent<TransformComponent>();
 		glm::quat rot = tc.GetRotationQuat();

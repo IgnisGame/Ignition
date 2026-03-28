@@ -60937,7 +60937,7 @@
                     0.0,
                     0.0
                 ],
-                "Friction": 2.0,
+                "Friction": 1.5,
                 "Restitution": 0.05000000074505806,
                 "IsTrigger": false
             }
@@ -62836,6 +62836,10 @@
                     1.0,
                     1.0
                 ]
+            },
+            "Script": {
+                "ClassName": "CarVisualRotate",
+                "Enabled": true
             }
         },
         {
